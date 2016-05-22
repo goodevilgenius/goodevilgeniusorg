@@ -1,0 +1,23 @@
+---
+id: 20
+title: My birthday
+date: 2008-03-29T09:01:43+00:00
+author: Danjones
+layout: post
+guid: http://goodevilgenius.org/blog/index.php?/archives/19-guid.html
+permalink: /2008/03/29/my-birthday/
+btc_comment_counts:
+  - 'a:0:{}'
+pvc_views:
+  - 34
+
+---
+Yesterday was my birthday, and boy, was it a great one. Around 6am, there was some noise right outside my room. It was just enough to not actually wake me up, but enough that I was able to hear what's happening, and the sounds in the real world would meld with the sounds in my dream. So, as I'm on a boat floating down the Danube, I hear a whispering, disembodied voice say, "Alright, you ready? Now!" Then my door crashed open loudly enough to actually wake me up, as four or five of my friends start singing "Happy Birthday" to me. As my eyes flutter open, I see my good friends standing there, and as the song concludes, one of them says, "We're here to take you to IHOP for breakfast." I slowly roll out of the hammock in which I sleep as the words, "Ohhhhh, Mannnn" escape from my mouth. I walk over towards them, and in retrospect, I wonder if they were wondering if I was about to deck them. I didn't, of course, because I love them, but instead put on my sandals, looked up and gave a groggy, affirmative nod. "Alright, let's go" came from one of the crowd. And so, in my pajamas, we headed off to IHOP.
+
+We went to IHOP where more friends were waiting. I was amazed at how many people came out at 6 in the morning to wish me a happy birthday. It was a great time, aside from our very grumpy waitress. Now to be fair, it looked as if she was one of only two waiters working at the time, and it seemed pretty busy. It may have been the end of the nightshift and she was tired. Nevertheless, a waiter should be able to put that aside. When she (finally) took our orders, one of my friends patted me on the shoulder and said, "it's his birthday." To that, she answered, with disdain dripping from every word, "I am not singing Happy Birthday." A little later, when another friend said we'd like to pay with separate checks (which really is not that much of a hassle; I know) she said, with as much incredulity as she could muster, "Are you **serious**?" You'd think a waitress at IHOP in a college town would be used to large parties paying separately. Anyway, her disposition later improved, but I expect she overheard us complaining about her, and didn't want to get a 2&cent; tip.
+
+Despite the poor service, we had a great time. After we got back, one roommate discovered that we hadn't gotten the mail in yesterday, and a card for me was waiting there. It was from my little sister, was very funny, and included a very nice gift certificate. When I got on my computer, I discovered more gift certificates in my email inbox from other family members. I decided to spend the one from my parents for [Amazon.com](http://www.amazon.com) at once, and buy a couple video games and a few DVDs.
+
+The day progressed as usual. Friday Forum at the Institute was great. Another friend reminded of a plan we had discussed to have a birthday video game party for me playing Super Smash Bros: Brawl. We arranged to do it at my house, since my roommate has a 64-in TV. So, after I got back from class, I sent out invitations to the party. We also decided to watch the first [Batman](http://www.imdb.com/title/tt0060153/) movie, starring Adam West, since one friend had just gotten it on DVD. Because I sent out invites only a few hours before the party was to start, I didn't expect to great a turnout, but probably over a dozen people showed up. Some of them came because it had been previously arranged to watch UT's basketball game against Stanford at our house just prior to the party, and getting to play video games after was just icing on the cake (figuratively speaking, of course; we didn't actually have a cake). I got one great present from Miss Stephanie Hall, and a couple others from other people, one of which I'm now eating.
+
+All in all, it was a really great day. I didn't even really announce my birthday beforehand, but my friends still made sure I had a great one. And I'm sure lucky to have such great friends and family.

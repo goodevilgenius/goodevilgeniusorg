@@ -6,12 +6,8 @@ author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=44
 permalink: /2008/07/18/my-roommates-couch/
-pvc_views:
-  - 100
-jd_tweet_this:
-  - yes
-btc_comment_counts:
-  - 'a:0:{}'
+pvc_views:100
+jd_tweet_this: yes
 
 ---
 Right now I had planned to be at a dance at church. I was looking forward to it, because it's been a while since I've been to a dance, but I had an experience that kept me from it.

@@ -6,12 +6,8 @@ author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/14-guid.html
 permalink: /2007/11/17/dancing-queen/
-jd_tweet_this:
-  - yes
-btc_comment_counts:
-  - 'a:0:{}'
-pvc_views:
-  - 67
+jd_tweet_this: yes
+pvc_views: 67
 
 ---
 Thursday afternoon, I was in a class at the [Institute](http://www.ldsces.org/Austin). The class was "The Gospel and the Productive Life," taught by Bishop Simmons. The lesson was mainly about [The Word of Wisdom](http://scriptures.lds.org/dc/89), but one of the quotes that was read mentioned the benefits of wholeseome recreation as well. Bishop Simmons told us that the root of the word recreation is re-create, and that if recreation doesn't help us re-create ourself, it's not really recreation. I liked that a lot. Generally when someone explains something to me using etymology, it helps me understand a lot better. This was a concept that had never really occurred to me.

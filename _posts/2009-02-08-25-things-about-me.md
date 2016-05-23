@@ -6,18 +6,10 @@ author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=104
 permalink: /2009/02/08/25-things-about-me/
-pvc_views:
-  - 130
-btc_comment_counts:
-  - 'a:0:{}'
-btc_post:
-  - 'a:6:{s:2:"ID";s:3:"104";s:13:"post_date_gmt";s:19:"2009-02-08 21:17:29";s:23:"initial_import_date_gmt";s:19:"2010-01-05 17:21:09";s:20:"last_import_date_gmt";s:19:"2010-01-05 17:21:09";s:4:"hits";s:1:"0";s:6:"misses";s:1:"1";}'
-jd_tweet_this:
-  - yes
-jd_test_wp:
-  - Publish||draft
-wp_jd_clig:
-  - http://cli.gs/WNqJjQ
+pvc_views: 130
+jd_tweet_this: yes
+jd_test_wp: Publish||draft
+wp_jd_clig: http://cli.gs/WNqJjQ
 
 ---
 Ok, so this has been making the rounds on Facebook, so I thought I'd give it a shot. Here are 25 random facts about me.

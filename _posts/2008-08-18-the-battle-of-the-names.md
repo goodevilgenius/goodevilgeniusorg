@@ -6,12 +6,8 @@ author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=50
 permalink: /2008/08/18/the-battle-of-the-names/
-pvc_views:
-  - 32
-jd_tweet_this:
-  - yes
-btc_comment_counts:
-  - 'a:0:{}'
+pvc_views: 32
+jd_tweet_this: yes
 
 ---
 Many of you, my friends, are already aware of the difficulty I and my roommates have been having in deciding on a name for our new house, and the [online poll](http://goodevilgenius.org/poll/) we created in order to settle what it should be called.

@@ -6,12 +6,8 @@ author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/6-guid.html
 permalink: /2007/09/04/photos-with-friends-facebook-application/
-pvc_views:
-  - 32
-btc_comment_counts:
-  - 'a:0:{}'
-jd_tweet_this:
-  - yes
+pvc_views: 32
+jd_tweet_this: yes
 
 ---
 <div style="float:right;margin-left:10px;margin-bottom:10px"><a href="http://apps.facebook.com/photoswithfriends/"><img alt="Photos With Friends" src="/photoswithfriends/jessiebarber_title_sm.jpg" /></a><br /> <span style="font-size: 0.9em;margin-top: 0px"><br /> <a href="http://www.flickr.com/photos/jessiebarber/1004268603/">Photo</a> by <a href="http://www.flickr.com/photos/jessiebarber/">Jessie Barber</a></span></div>

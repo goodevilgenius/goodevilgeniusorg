@@ -6,10 +6,7 @@ author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/4-guid.html
 permalink: /2007/08/20/tx-capitol-at-night-semi-finalist/
-btc_comment_counts:
-  - 'a:0:{}'
-pvc_views:
-  - 204
+pvc_views: 204
 
 ---
 <div style="float: right;margin-left: 10px;margin-bottom: 10px"><a href="http://www.flickr.com/photos/goodevilgenius/389864164/" title="photo sharing"><img src="http://farm1.static.flickr.com/122/389864164_2b5f9cdd80_m.jpg" alt="" style="border: solid 2px #000000" /></a><br /> <br /> <span style="font-size: 0.9em;margin-top: 0px"><br /> <a href="http://www.flickr.com/photos/goodevilgenius/389864164/">Texas Capitol</a><br /> <br /> Originally uploaded by <a href="http://www.flickr.com/people/goodevilgenius/">goodevilgenius</a></span></div>

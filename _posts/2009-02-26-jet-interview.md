@@ -6,14 +6,9 @@ author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=115
 permalink: /2009/02/26/jet-interview/
-pvc_views:
-  - 870
-wp_jd_clig:
-  - http://cli.gs/b7HZdG
-jd_tweet_this:
-  - yes
-btc_comment_counts:
-  - 'a:0:{}'
+pvc_views: 870
+wp_jd_clig: http://cli.gs/b7HZdG
+jd_tweet_this: yes
 
 ---
 Yesterday, I had my interview for the [JET Program](http://www.jetprogramme.org/). The interview was held in the [Allen Center](http://en.wikipedia.org/wiki/Allen_Center) in [Houston, TX](http://en.wikipedia.org/wiki/Houston). Since my brother lives in Houston, I went down the night before and stayed with him. He also wanted to help me change the oil on my [motorcycle](http://en.wikipedia.org/wiki/Suzuki_SV650), since he knows I'm horrible about maintaining my bike, so we could kill two birds with one stone.

@@ -6,16 +6,11 @@ author: Danjones
 layout: post
 guid: http://goodevilgenius.org/wordpress/2006/09/13/more-facebook-changes/
 permalink: /2006/09/13/more-facebook-changes/
-pvc_views:
-  - 34
-blogger_blog:
-  - goodevilgenius.blogspot.com
-blogger_author:
-  - Dan Jones
-blogger_permalink:
-  - /2006/09/more-facebook-changes.html
-jd_tweet_this:
-  - yes
+pvc_views: 34
+blogger_blog: goodevilgenius.blogspot.com
+blogger_author: Dan Jones
+blogger_permalink: /2006/09/more-facebook-changes.html
+jd_tweet_this: yes
 
 ---
 Ok, well my last post was about Facebook, and so will this one. Facebook has decided to make another big change, but hasn't quite implemented it yet. Until now, Facebook was only open to college students (faculty, stuff, alumni), high school students, and people working at a few businesses. Originally, of course, it was only open to college students. This created a nice environment for college students that only connected them to other college students, but without connecting them to anybody else in the world.

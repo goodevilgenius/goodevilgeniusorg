@@ -6,12 +6,8 @@ author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=40
 permalink: /2008/05/10/cant-do-math/
-jd_tweet_this:
-  - yes
-btc_comment_counts:
-  - 'a:0:{}'
-pvc_views:
-  - 44
+jd_tweet_this: yes
+pvc_views: 44
 
 ---
 When I was a child, I saw [an episode](http://en.wikipedia.org/wiki/Perchance_to_Dream_%28Batman:_The_Animated_Series%29) of [the Batman cartoon](http://en.wikipedia.org/wiki/Batman:_The_Animated_Series) in which Bruce Wayne was trapped in a dream created by a machine made by [the Mad Hatter](http://en.wikipedia.org/wiki/Mad_Hatter_%28comics%29). In this episode, Bruce discovers that he is dreaming because he can't read. He claims that dreaming and reading are functions of opposite hemispheres of the brain, so it's impossible to read in a dream. I always remembered that episode because I knew it was completely bogus the first time I saw it. I remembered reading in dreams. I knew it was possible. This was just another example of script writers who don't do proper research.

@@ -6,12 +6,8 @@ author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/21-guid.html
 permalink: /2008/04/21/if-looks-could-kill/
-pvc_views:
-  - 38
-jd_tweet_this:
-  - yes
-btc_comment_counts:
-  - 'a:0:{}'
+pvc_views: 38
+jd_tweet_this: yes
 
 ---
 Last night, I had a strange dream that I felt like sharing. Why do I discuss my dreams on this blog so much, you might ask? I guess my real life is just boring enough that I need to supplement it with my fantasy life. Oh well. On to the dream.

@@ -6,10 +6,8 @@ author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=63
 permalink: /2008/10/02/life-goals-part-1/
-pvc_views:
-  - 118
-jd_tweet_this:
-  - yes
+pvc_views: 118
+jd_tweet_this: yes
 
 ---
 So, a couple of weeks ago, in an [Institute](http://ldsces.org/) class, my teacher challenged our class to come up with 100 life goals. I decided this was a great idea, and have started on my list. I want to share with you the ones that aren't too personal. I haven't come up with 100 yet, but I'm still working on it, and will post again when I have more.

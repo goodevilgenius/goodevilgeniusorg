@@ -6,16 +6,11 @@ author: Danjones
 layout: post
 guid: http://goodevilgenius.org/wordpress/2006/11/13/facebook-script/
 permalink: /2006/11/13/facebook-script/
-blogger_blog:
-  - goodevilgenius.blogspot.com
-blogger_author:
-  - Dan Jones
-blogger_permalink:
-  - /2006/11/facebook-script.html
-jd_tweet_this:
-  - yes
-pvc_views:
-  - 34
+blogger_blog: goodevilgenius.blogspot.com
+blogger_author: Dan Jones
+blogger_permalink: /2006/11/facebook-script.html
+jd_tweet_this: yes
+pvc_views: 34
 
 ---
 The other day, I was talking to a friend, who mentioned that another friend had her birthday tomorrow.

@@ -6,10 +6,8 @@ author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/8-guid.html
 permalink: /2007/09/24/joe-stryker-pilot/
-jd_tweet_this:
-  - yes
-pvc_views:
-  - 28
+jd_tweet_this: yes
+pvc_views: 28
 
 ---
 I should probably keep a lid on this until it's ready, but I can't. I'm too excited.

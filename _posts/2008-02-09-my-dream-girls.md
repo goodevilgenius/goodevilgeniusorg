@@ -6,12 +6,8 @@ author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/18-guid.html
 permalink: /2008/02/09/my-dream-girls/
-jd_tweet_this:
-  - yes
-btc_comment_counts:
-  - 'a:0:{}'
-pvc_views:
-  - 34
+jd_tweet_this: yes
+pvc_views: 34
 
 ---
 So, the other night I had a pretty weird dream, and I've been thinking of it since. In the dream I was working on some kind of project with five girls. I don't really remember what it was we were doing, and it's not particularly important anyway. These five girls are all friends of mine in real life. I know them all pretty well (some better than others). These girls are all vastly different from one another. Really, the only noticeable similarity among them is that I know all of them from church, so they're all Mormon. But in just about every other way, they're all very different. Their ages vary from about 23 to 31. There's two blondes and three brunettes. Some are students, some professionals, with everything in between. Three have never been married, one is divorced, one is currently married. Most of the girls know each other, but aren't good friends, and never hang out with each other (aside from seeing each other at church, and sometimes at parties). Basically there is no common thread running between them.

@@ -6,12 +6,8 @@ author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/3-guid.html
 permalink: /2007/08/14/facebook-users-like-myspace/
-btc_comment_counts:
-  - 'a:0:{}'
-jd_tweet_this:
-  - yes
-pvc_views:
-  - 82
+jd_tweet_this: yes
+pvc_views: 82
 
 ---
 I recently read a post by Nick O'Neill on his [allfacebook blog](http://www.allfacebook.com/) titled [Do Facebook Users Have a MySpace Mentality?](http://www.allfacebook.com/2007/08/do-facebook-users-have-a-myspace-mentality/). Basically he was curious if Facebook users are like MySpace users who seek to get as many friends as they can without regards as to whether or not they actually know the person. I, personally, think that's stupid to do so. I use Facebook to keep in contact with people I actually know. I don't have a single Facebook friend whom I've never met IRL. That could possibly change, but I certainly wouldn't ever add someone with whom I had no association at all.

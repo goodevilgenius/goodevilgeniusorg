@@ -6,10 +6,8 @@ author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=121
 permalink: /2009/02/26/my-own-land-of-promise/
-pvc_views:
-  - 212
-wp_jd_clig:
-  - http://cli.gs/N4Q0VX
+pvc_views: 212
+wp_jd_clig: http://cli.gs/N4Q0VX
 
 ---
 As I mentioned [earlier today](http://goodevilgenius.org/blog/2009/02/26/jet-interview/), I interviewed for the JET Program yesterday. One of the questions, as I said, was about how I, as a Christian, would cope with living in a Buddhist country. I gave some answer about how I get along just fine with people of every religion, and that I would be fine worshiping, if I had to, on my own.

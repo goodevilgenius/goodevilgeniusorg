@@ -6,8 +6,7 @@ author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/16-guid.html
 permalink: /2007/12/20/a-scottish-delicacy/
-pvc_views:
-  - 58
+pvc_views: 58
 
 ---
 Last night, I got a craving. I was thinking of my time in Scotland, and some of the stuff I missed from there, and one stood out. Some stuff I can get here in the States, like haggis, or [Irn-Bru](http://www.irn-bru.co.uk/home.html) (it's not easy to find, but not impossible). But there's one uniquely Scottish dish that I have not had in the nearly four years since I've returned home: fried pizza.

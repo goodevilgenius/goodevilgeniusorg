@@ -6,18 +6,11 @@ author: Danjones
 layout: post
 guid: http://goodevilgenius.org/wordpress/2006/12/21/project-implicit-speed-vs-accuracy-men-women-science-art/
 permalink: /2006/12/21/project-implicit-speed-vs-accuracy-men-women-science-art/
-pvc_views:
-  - 28
-blogger_blog:
-  - goodevilgenius.blogspot.com
-blogger_author:
-  - Dan Jones
-blogger_permalink:
-  - /2006/12/project-implicit-speed-vs-accuracy-men.html
-btc_comment_counts:
-  - 'a:0:{}'
-jd_tweet_this:
-  - yes
+pvc_views: 28
+blogger_blog: goodevilgenius.blogspot.com
+blogger_author: Dan Jones
+blogger_permalink: /2006/12/project-implicit-speed-vs-accuracy-men.html
+jd_tweet_this: yes
 
 ---
 Here's another set of [Project Implicit](https://implicit.harvard.edu/implicit/) results for me:

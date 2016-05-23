@@ -6,8 +6,7 @@ author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=55
 permalink: /2008/09/15/dan-jones-in-japan/
-pvc_views:
-  - 73
+pvc_views: 73
 
 ---
 <div style="float:right;width: 30%;margin: 0 1em"><a href="http://flickr.com/photos/boaz/367656604/"><img src="http://farm1.static.flickr.com/185/367656604_0fe2d91ff9.jpg" style="width:100%" alt="" /></a></div>

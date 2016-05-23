@@ -6,14 +6,9 @@ author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=43
 permalink: /2008/07/07/soundtrack-of-my-life/
-pvc_views:
-  - 240
-jd_tweet_this:
-  - yes
-btc_comment_counts:
-  - 'a:0:{}'
-custom_header:
-  - '<style type="text/css">.answer{border:5px solid black;margin:3px;min-width:20%;max-width:250px;padding:0px 5px;}.answer a{margin:auto;}</style>'
+pvc_views: 240
+jd_tweet_this: yes
+custom_header: '<style type="text/css">.answer{border:5px solid black;margin:3px;min-width:20%;max-width:250px;padding:0px 5px;}.answer a{margin:auto;}</style>'
 
 ---
 So, I got this idea from a Facebook note a friend of mine wrote. Here's how it works:

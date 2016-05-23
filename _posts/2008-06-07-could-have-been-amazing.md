@@ -6,12 +6,8 @@ author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=42
 permalink: /2008/06/07/could-have-been-amazing/
-pvc_views:
-  - 64
-jd_tweet_this:
-  - yes
-btc_comment_counts:
-  - 'a:0:{}'
+pvc_views: 64
+jd_tweet_this: yes
 
 ---
 So, I'm in Carthage, TX right now to visit my family. The ride to Carthage is quite a long one (6-7 hours), so I saw a lot of different things on the way here.

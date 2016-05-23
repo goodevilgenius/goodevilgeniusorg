@@ -5,8 +5,9 @@ date: 2014-11-17T18:57:46+00:00
 author: Danjones
 layout: page
 guid: http://goodevilgenius.blogs.goodevilgenius.org/?page_id=435
+
 ---
-I&#8217;ll break these down into various categories, and explain why you might want each app. Since phones and tablets are primarily media devices, I&#8217;ll start with media applications.
+I'll break these down into various categories, and explain why you might want each app. Since phones and tablets are primarily media devices, I'll start with media applications.
 
   * [Video](http://goodevilgenius.org/android-first-steps/android-apps/video-apps/ "Video Apps")
   * [Music/Audio](http://goodevilgenius.org/android-first-steps/android-apps/music-apps/ "Music Apps")

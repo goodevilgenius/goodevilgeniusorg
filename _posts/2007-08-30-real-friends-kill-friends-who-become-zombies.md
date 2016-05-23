@@ -6,12 +6,8 @@ author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/5-guid.html
 permalink: /2007/08/30/real-friends-kill-friends-who-become-zombies/
-pvc_views:
-  - 42
-btc_comment_counts:
-  - 'a:0:{}'
-jd_tweet_this:
-  - yes
+pvc_views: 42
+jd_tweet_this: yes
 
 ---
 <div style="float: right;margin-left: 10px;margin-bottom: 10px"><a href="http://www.flickr.com/photos/misteriddles/443167612/"><img alt="zombie" src="http://farm1.static.flickr.com/201/443167612_ab888619cc_m.jpg" /></a><br /> <br /> <span style="font-size: 0.9em;margin-top: 0px"><br /> zombie '07 by <a href="http://www.flickr.com/photos/misteriddles/">Misteriddles</a></span></div>

@@ -5,7 +5,7 @@ date: 2007-08-20T17:49:57+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/4-guid.html
-permalink: /2007/08/20/tx-capitol-at-night-semi-finalist/
+permalink: /tx-capitol-at-night-semi-finalist/
 pvc_views: 204
 
 ---

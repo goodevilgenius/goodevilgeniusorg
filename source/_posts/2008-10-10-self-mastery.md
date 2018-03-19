@@ -5,7 +5,7 @@ date: 2008-10-10T17:26:02+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=70
-permalink: /2008/10/10/self-mastery/
+permalink: /self-mastery/
 pvc_views: 52
 
 ---

@@ -5,7 +5,7 @@ date: 2014-05-09T18:08:17+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.blogs.goodevilgenius.org/?p=344
-permalink: /2014/05/09/when-is-the-future/
+permalink: /when-is-the-future/
 
 ---
 In [Back to the Future II](http://www.imdb.com/title/tt0096874/ "Back to the Future Part II"), Marty McFly travels to the future in an attempt to help out his future children. That future is soon upon us.

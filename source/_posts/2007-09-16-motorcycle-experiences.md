@@ -5,7 +5,7 @@ date: 2007-09-16T13:02:12+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/7-guid.html
-permalink: /2007/09/16/motorcycle-experiences/
+permalink: /motorcycle-experiences/
 jd_tweet_this: yes
 pvc_views: 93
 

@@ -5,7 +5,7 @@ date: 2008-04-23T22:31:32+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/22-guid.html
-permalink: /2008/04/23/smurfs-and-linguistics/
+permalink: /smurfs-and-linguistics/
 pvc_views: 198
 jd_tweet_this: yes
 

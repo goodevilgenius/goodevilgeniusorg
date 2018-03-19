@@ -5,7 +5,7 @@ date: 2008-07-18T22:04:49+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=44
-permalink: /2008/07/18/my-roommates-couch/
+permalink: /my-roommates-couch/
 pvc_views: 100
 
 ---

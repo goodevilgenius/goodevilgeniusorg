@@ -5,7 +5,7 @@ date: 2007-11-17T12:26:09+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/14-guid.html
-permalink: /2007/11/17/dancing-queen/
+permalink: /dancing-queen/
 jd_tweet_this: yes
 pvc_views: 67
 

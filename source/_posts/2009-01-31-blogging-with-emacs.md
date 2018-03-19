@@ -5,7 +5,7 @@ date: 2009-01-31T08:26:49+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=101
-permalink: /2009/01/31/blogging-with-emacs/
+permalink: /blogging-with-emacs/
 wp_jd_clig: http://cli.gs/yetHaj
 pvc_views: 953
 jd_tweet_this: yes

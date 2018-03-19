@@ -5,7 +5,7 @@ date: 2007-05-22T15:06:00+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/wordpress/2007/05/22/facebook-profile-menu/
-permalink: /2007/05/22/facebook-profile-menu/
+permalink: /facebook-profile-menu/
 pvc_views: 24
 blogger_blog: goodevilgenius.blogspot.com
 blogger_author: Dan Jones

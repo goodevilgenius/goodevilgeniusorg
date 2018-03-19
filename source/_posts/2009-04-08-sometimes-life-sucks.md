@@ -5,7 +5,7 @@ date: 2009-04-08T12:25:48+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/?p=140
-permalink: /2009/04/08/sometimes-life-sucks/
+permalink: /sometimes-life-sucks/
 pvc_views: 261
 jd_tweet_this: yes
 wp_jd_clig: http://cli.gs/SpgB9g

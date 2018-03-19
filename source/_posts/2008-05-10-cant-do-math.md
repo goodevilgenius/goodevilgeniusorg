@@ -5,7 +5,7 @@ date: 2008-05-10T11:35:53+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=40
-permalink: /2008/05/10/cant-do-math/
+permalink: /cant-do-math/
 jd_tweet_this: yes
 pvc_views: 44
 

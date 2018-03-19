@@ -5,7 +5,7 @@ date: 2008-02-09T13:11:52+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/18-guid.html
-permalink: /2008/02/09/my-dream-girls/
+permalink: /my-dream-girls/
 jd_tweet_this: yes
 pvc_views: 34
 

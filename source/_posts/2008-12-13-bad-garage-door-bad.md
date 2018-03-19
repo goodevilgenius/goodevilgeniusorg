@@ -5,7 +5,7 @@ date: 2008-12-13T23:06:48+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=76
-permalink: /2008/12/13/bad-garage-door-bad/
+permalink: /bad-garage-door-bad/
 pvc_views: 37
 jd_tweet_this: yes
 

@@ -5,7 +5,7 @@ date: 2006-09-13T08:17:00+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/wordpress/2006/09/13/more-facebook-changes/
-permalink: /2006/09/13/more-facebook-changes/
+permalink: /more-facebook-changes/
 pvc_views: 34
 blogger_blog: goodevilgenius.blogspot.com
 blogger_author: Dan Jones

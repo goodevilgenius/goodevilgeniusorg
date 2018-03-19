@@ -5,7 +5,7 @@ date: 2007-12-20T18:23:15+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/16-guid.html
-permalink: /2007/12/20/a-scottish-delicacy/
+permalink: /a-scottish-delicacy/
 pvc_views: 58
 
 ---

@@ -5,7 +5,7 @@ date: 2010-11-12T21:53:32+00:00
 author: Danjones
 layout: post
 guid: http://danielrayjones.com/?p=251
-permalink: /2010/11/12/thoughts-on-fatherhood/
+permalink: /thoughts-on-fatherhood/
 pvc_views: 164
 
 ---

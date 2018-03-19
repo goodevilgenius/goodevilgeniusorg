@@ -5,7 +5,7 @@ date: 2007-08-08T16:19:00+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/wordpress/2007/08/08/twitter2facebook/
-permalink: /2007/08/08/twitter2facebook/
+permalink: /twitter2facebook/
 blogger_permalink: /2007/08/twitter2facebook.html
 blogger_author: Dan Jones
 blogger_blog: goodevilgenius.blogspot.com

@@ -5,7 +5,7 @@ date: 2007-10-29T15:36:26+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/13-guid.html
-permalink: /2007/10/29/my-week-as-a-spammer/
+permalink: /my-week-as-a-spammer/
 jd_tweet_this: yes
 pvc_views: 30
 

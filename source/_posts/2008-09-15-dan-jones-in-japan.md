@@ -5,7 +5,7 @@ date: 2008-09-15T11:31:10+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=55
-permalink: /2008/09/15/dan-jones-in-japan/
+permalink: /dan-jones-in-japan/
 pvc_views: 73
 
 ---

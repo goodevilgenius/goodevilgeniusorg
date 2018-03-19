@@ -5,7 +5,7 @@ date: 2009-02-26T11:39:26+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=115
-permalink: /2009/02/26/jet-interview/
+permalink: /jet-interview/
 pvc_views: 870
 wp_jd_clig: http://cli.gs/b7HZdG
 jd_tweet_this: yes

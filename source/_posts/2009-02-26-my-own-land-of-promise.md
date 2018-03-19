@@ -5,7 +5,7 @@ date: 2009-02-26T20:58:54+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=121
-permalink: /2009/02/26/my-own-land-of-promise/
+permalink: /my-own-land-of-promise/
 pvc_views: 212
 wp_jd_clig: http://cli.gs/N4Q0VX
 

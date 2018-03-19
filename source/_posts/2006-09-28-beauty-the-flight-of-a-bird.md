@@ -5,7 +5,7 @@ date: 2006-09-28T13:39:00+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/wordpress/2006/09/28/beauty-the-flight-of-a-bird/
-permalink: /2006/09/28/beauty-the-flight-of-a-bird/
+permalink: /beauty-the-flight-of-a-bird/
 blogger_blog: goodevilgenius.blogspot.com
 blogger_author: Dan Jones
 blogger_permalink: /2006/09/beauty-flight-of-bird.html

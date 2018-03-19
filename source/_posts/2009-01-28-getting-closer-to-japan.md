@@ -5,7 +5,7 @@ date: 2009-01-28T11:50:38+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=98
-permalink: /2009/01/28/getting-closer-to-japan/
+permalink: /getting-closer-to-japan/
 jd_wp_twitter: Getting closer to Japan. Time to prepare! http://cli.gs/6DgL2V
 jd_tweet_this: yes
 jd_twitter: Getting closer to Japan. Time to prepare!

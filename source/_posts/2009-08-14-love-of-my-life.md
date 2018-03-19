@@ -5,7 +5,7 @@ date: 2009-08-14T10:11:31+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/?p=152
-permalink: /2009/08/14/love-of-my-life/
+permalink: /love-of-my-life/
 jd_tweet_this: yes
 pvc_views: 306
 wp_jd_clig: http://cli.gs/unJZm

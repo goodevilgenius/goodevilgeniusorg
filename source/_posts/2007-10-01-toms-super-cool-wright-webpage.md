@@ -5,7 +5,7 @@ date: 2007-10-01T21:22:03+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/9-guid.html
-permalink: /2007/10/01/toms-super-cool-wright-webpage/
+permalink: /toms-super-cool-wright-webpage/
 pvc_views: 60
 jd_tweet_this: yes
 

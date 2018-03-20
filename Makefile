@@ -14,6 +14,6 @@ clean:
 stage: clean
 	hexo generate
 
-serve: clean
+serve: stage
 	echo https://goodevilgeniusorg-goodevilgenius.c9users.io/
 	hexo server -i "$(IP)" -p "$(PORT)" 

@@ -76,6 +76,29 @@ theme: cactus
 
 theme_config:
   colorscheme: classic
+  projects_url: https://github.com/goodevilgenius
+  social_links:
+    github: https://github.com/goodevilgenius
+    stack-overflow: https://stackoverflow.com/users/story/367461
+    twitter: https://twitter.com/goodevilgenius
+    facebook: https://facebook.com/danjones
+    linkedin: https://www.linkedin.com/in/DanJones000/
+    goodreads: https://www.goodreads.com/user/show/2404213-dan-jones
+    lastfm: https://www.last.fm/user/dan000
+    telegram: https://t.me/danjones
+    mail: mailto:danjones@goodevilgenius.org
+  posts_overview:
+    post_count: 20
+  gravatar:
+    email: danjones@goodevilgenius.org
+  logo:
+    enabled: true
+    gravatar: true
+  nav:
+    Home: /
+    About: /about/
+    Archives: /archives/
+    Resume: https://DanielRayJones.com/
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

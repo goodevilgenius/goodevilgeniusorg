@@ -1,0 +1,16 @@
+- 
+    name: DropLogger
+    url: https://github.com/goodevilgenius/droplogger
+    desc: Python logging application using IFTTT and Dropbox
+- 
+    name: Dropbox Shell
+    url: https://github.com/goodevilgenius/dropbox-shell
+    desc: Run commands on your home computer via Dropbox
+- 
+    name: controllr
+    url: https://github.com/goodevilgenius/controllr
+    desc: (Work in Progress) Control multiple devices using a server/client architecture
+- 
+    name: Cards with Frenemies
+    url: https://github.com/goodevilgenius/cards-with-frenemies
+    desc: (Work in Progress) Online multiplayer clone of a similarly named card game

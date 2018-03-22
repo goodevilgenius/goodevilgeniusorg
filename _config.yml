@@ -97,6 +97,8 @@ theme_config:
   logo:
     enabled: true
     gravatar: true
+    width: 50
+    height: 50
   nav:
     Home: /
     About: /about/

@@ -5,7 +5,7 @@ date: 2008-04-03T10:47:57+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/20-guid.html
-permalink: /my-adventures-with-gimp/
+permalink: my-adventures-with-gimp
 jd_tweet_this: yes
 pvc_views: 26
 

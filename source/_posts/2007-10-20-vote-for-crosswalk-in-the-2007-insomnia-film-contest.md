@@ -5,7 +5,7 @@ date: 2007-10-20T18:12:25+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/12-guid.html
-permalink: /vote-for-crosswalk-in-the-2007-insomnia-film-contest/
+permalink: vote-for-crosswalk-in-the-2007-insomnia-film-contest
 pvc_views: 28
 jd_tweet_this: yes
 

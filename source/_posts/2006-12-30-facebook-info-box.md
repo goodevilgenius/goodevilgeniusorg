@@ -5,7 +5,7 @@ date: 2006-12-30T17:17:00+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/wordpress/2006/12/30/facebook-info-box/
-permalink: /facebook-info-box/
+permalink: facebook-info-box
 pvc_views: 157
 blogger_blog: goodevilgenius.blogspot.com
 blogger_author: Dan Jones

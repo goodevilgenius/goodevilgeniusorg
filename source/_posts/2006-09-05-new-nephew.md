@@ -5,7 +5,7 @@ date: 2006-09-05T13:07:00+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/wordpress/2006/09/05/new-nephew/
-permalink: /new-nephew/
+permalink: new-nephew
 pvc_views: 40
 blogger_permalink: /2006/09/new-nephew.html
 blogger_author: Dan Jones

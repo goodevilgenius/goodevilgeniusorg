@@ -5,7 +5,7 @@ date: 2009-03-26T19:29:56+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/?p=135
-permalink: /ascii-star-wars/
+permalink: ascii-star-wars
 pvc_views: 209
 jd_tweet_this: yes
 wp_jd_clig: http://cli.gs/XzBt57

@@ -5,7 +5,7 @@ date: 2008-08-18T09:00:13+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=50
-permalink: /the-battle-of-the-names/
+permalink: the-battle-of-the-names
 pvc_views: 32
 jd_tweet_this: yes
 

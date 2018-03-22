@@ -5,7 +5,7 @@ date: 2007-05-23T23:29:00+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/wordpress/2007/05/23/facebook-friend-menu/
-permalink: /facebook-friend-menu/
+permalink: facebook-friend-menu
 pvc_views: 32
 jd_tweet_this: yes
 blogger_author: Dan Jones

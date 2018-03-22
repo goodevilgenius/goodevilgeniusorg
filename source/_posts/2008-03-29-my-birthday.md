@@ -5,7 +5,7 @@ date: 2008-03-29T09:01:43+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/19-guid.html
-permalink: /my-birthday/
+permalink: my-birthday
 pvc_views: 34
 
 ---

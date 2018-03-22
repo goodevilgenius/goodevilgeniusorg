@@ -5,7 +5,7 @@ date: 2010-03-29T19:01:58+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/?p=173
-permalink: /life-happens/
+permalink: life-happens
 jd_twitter: 'My thoughts on my life as of late: #url#'
 pvc_views: 132
 jd_tweet_this: yes

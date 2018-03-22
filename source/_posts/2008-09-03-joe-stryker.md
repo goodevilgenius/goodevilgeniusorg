@@ -5,7 +5,7 @@ date: 2008-09-03T19:29:53+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=53
-permalink: /joe-stryker/
+permalink: joe-stryker
 jd_tweet_this: yes
 pvc_views: 119
 

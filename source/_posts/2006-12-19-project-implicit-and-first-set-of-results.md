@@ -5,7 +5,7 @@ date: 2006-12-19T22:19:00+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/wordpress/2006/12/19/project-implicit-and-first-set-of-results/
-permalink: /project-implicit-and-first-set-of-results/
+permalink: project-implicit-and-first-set-of-results
 pvc_views: 26
 blogger_blog: goodevilgenius.blogspot.com
 blogger_author: Dan Jones

@@ -5,7 +5,7 @@ date: 2008-10-02T12:37:19+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=63
-permalink: /life-goals-part-1/
+permalink: life-goals-part-1
 pvc_views: 118
 jd_tweet_this: yes
 

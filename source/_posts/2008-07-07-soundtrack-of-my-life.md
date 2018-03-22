@@ -5,7 +5,7 @@ date: 2008-07-07T00:44:49+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=43
-permalink: /soundtrack-of-my-life/
+permalink: soundtrack-of-my-life
 pvc_views: 240
 jd_tweet_this: yes
 custom_header: '<style type="text/css">.answer{border:5px solid black;margin:3px;min-width:20%;max-width:250px;padding:0px 5px;}.answer a{margin:auto;}</style>'

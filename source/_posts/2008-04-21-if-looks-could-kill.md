@@ -5,7 +5,7 @@ date: 2008-04-21T15:32:49+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/21-guid.html
-permalink: /if-looks-could-kill/
+permalink: if-looks-could-kill
 pvc_views: 38
 jd_tweet_this: yes
 

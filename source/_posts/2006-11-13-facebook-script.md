@@ -5,7 +5,7 @@ date: 2006-11-13T13:49:00+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/wordpress/2006/11/13/facebook-script/
-permalink: /facebook-script/
+permalink: facebook-script
 blogger_blog: goodevilgenius.blogspot.com
 blogger_author: Dan Jones
 blogger_permalink: /2006/11/facebook-script.html

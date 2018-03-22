@@ -5,7 +5,7 @@ date: 2008-11-04T12:19:22+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=72
-permalink: /jerkstore-on-the-road/
+permalink: jerkstore-on-the-road
 jd_tweet_this: yes
 pvc_views: 58
 

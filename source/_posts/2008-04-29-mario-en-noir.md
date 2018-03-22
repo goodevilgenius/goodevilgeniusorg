@@ -5,7 +5,7 @@ date: 2008-04-29T20:40:24+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/2008/04/29/mario-en-noir/
-permalink: /mario-en-noir/
+permalink: mario-en-noir
 pvc_views: 73
 jd_tweet_this: yes
 

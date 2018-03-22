@@ -5,7 +5,7 @@ date: 2007-09-04T15:11:24+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/6-guid.html
-permalink: /photos-with-friends-facebook-application/
+permalink: photos-with-friends-facebook-application
 pvc_views: 32
 jd_tweet_this: yes
 

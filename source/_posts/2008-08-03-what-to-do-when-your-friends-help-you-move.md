@@ -5,7 +5,7 @@ date: 2008-08-03T04:23:26+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=45
-permalink: /what-to-do-when-your-friends-help-you-move/
+permalink: what-to-do-when-your-friends-help-you-move
 pvc_views: 58
 jd_tweet_this: yes
 

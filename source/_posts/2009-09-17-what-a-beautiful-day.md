@@ -5,7 +5,7 @@ date: 2009-09-17T01:51:18+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/?p=156
-permalink: /what-a-beautiful-day/
+permalink: what-a-beautiful-day
 pvc_views: 152
 jd_tweet_this: yes
 wp_jd_clig: http://cli.gs/ztRYn

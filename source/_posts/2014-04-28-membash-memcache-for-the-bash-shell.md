@@ -5,7 +5,7 @@ date: 2014-04-28T19:48:51+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.blogs.goodevilgenius.org/?p=339
-permalink: /membash-memcache-for-the-bash-shell/
+permalink: membash-memcache-for-the-bash-shell
 
 ---
 I recently had an idea that required using [memcache](http://memcached.org/ "memcached") from a [BASH](https://www.gnu.org/software/bash/ "Bash - the Bourne Again SHell") script. So, I decided I would write a script that would allow me to do exactly that.

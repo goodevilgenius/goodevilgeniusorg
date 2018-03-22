@@ -5,7 +5,7 @@ date: 2009-02-08T15:17:29+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=104
-permalink: /25-things-about-me/
+permalink: 25-things-about-me
 pvc_views: 130
 jd_tweet_this: yes
 jd_test_wp: Publish||draft

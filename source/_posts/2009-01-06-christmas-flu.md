@@ -5,7 +5,7 @@ date: 2009-01-06T13:26:02+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=89
-permalink: /christmas-flu/
+permalink: christmas-flu
 pvc_views: 132
 jd_tweet_this: yes
 

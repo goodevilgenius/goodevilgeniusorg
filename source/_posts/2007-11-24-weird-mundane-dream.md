@@ -5,7 +5,7 @@ date: 2007-11-24T12:27:00+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/15-guid.html
-permalink: /weird-mundane-dream/
+permalink: weird-mundane-dream
 jd_tweet_this: yes
 pvc_views: 40
 

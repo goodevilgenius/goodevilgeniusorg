@@ -5,7 +5,7 @@ date: 2008-08-08T20:43:02+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=48
-permalink: /color-quiz/
+permalink: color-quiz
 pvc_views: 38
 jd_tweet_this: yes
 

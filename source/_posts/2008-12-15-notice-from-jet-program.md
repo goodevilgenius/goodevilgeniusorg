@@ -5,7 +5,7 @@ date: 2008-12-15T15:03:50+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=81
-permalink: /notice-from-jet-program/
+permalink: notice-from-jet-program
 pvc_views: 60
 
 ---

@@ -5,7 +5,7 @@ date: 2007-08-14T10:29:44+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/3-guid.html
-permalink: /facebook-users-like-myspace/
+permalink: facebook-users-like-myspace
 jd_tweet_this: yes
 pvc_views: 82
 

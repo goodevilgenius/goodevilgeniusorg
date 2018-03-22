@@ -5,7 +5,7 @@ date: 2013-09-05T02:37:50+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.blogs.goodevilgenius.org/?p=326
-permalink: /how-i-automatically-download-youtube-videos-recommended-on-reddit/
+permalink: how-i-automatically-download-youtube-videos-recommended-on-reddit
 
 ---
 There are a number of subreddits in which people regularly post links to YouTube videos that I might like to later view. I've put together a system that downloads these videos to my computer for later viewing. I thought other people might like to learn how I've put this together so that they can reproduce it on their home computer. For the purpose of this tutorial, I'll use [/r/Music](http://www.reddit.com/r/Music "/r/Music") as an example, since it frequently contains posts to music videos.

@@ -5,7 +5,7 @@ date: 2008-06-07T08:21:30+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=42
-permalink: /could-have-been-amazing/
+permalink: could-have-been-amazing
 pvc_views: 64
 jd_tweet_this: yes
 

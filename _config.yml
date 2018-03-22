@@ -99,6 +99,13 @@ theme_config:
     gravatar: true
     width: 50
     height: 50
+  favicon:
+    desktop:
+      gravatar: true
+    android:
+      gravatar: true
+    apple:
+      gravatar: true
   nav:
     Home: /
     About: /about/

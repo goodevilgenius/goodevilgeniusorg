@@ -20,3 +20,5 @@ Aside from the original script, I found two other resources to help me flesh it 
   * [Memcached telnet command summary](http://blog.elijaa.org/?post/2010/05/21/Memcached-telnet-command-summary)
 
 I ended up not needing this at all (yet), but it was still a great exercise. The entire script is available below:
+
+{% gist 11375877 %}

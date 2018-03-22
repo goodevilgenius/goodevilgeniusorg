@@ -5,7 +5,10 @@
 # Site
 title: "Dan's Musings"
 subtitle:
-description:
+description: |
+    My name is Dan Jones. I am an actor, programmer, and father.
+    
+    Sometimes, I have thoughts about things. Some of these thoughts end up here.
 author: Dan Jones
 language: en
 timezone: America/Chicago

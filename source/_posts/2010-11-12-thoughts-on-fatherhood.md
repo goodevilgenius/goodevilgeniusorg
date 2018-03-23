@@ -11,7 +11,7 @@ pvc_views: 164
 ---
 This post is well overdue, but between moving across the country and starting a new job, I just hadn't gotten around to it until now. Three months ago, I became a father. My wife gave birth to a beautiful baby girl. I've certainly changed a great deal because of her. I'd like to share a few thoughts and experiences I've had over the past few months.
 
-![Emma Smiling](https://sphotos-a.xx.fbcdn.net/hphotos-prn1/53366_10100382622248820_3092076_o.jpg)
+![Emma Smiling](http://res.cloudinary.com/danjones000/image/upload/v1521742914/emma_smiling.jpg)
 
 The first thing I've learned is that my capacity to love is greater than I ever thought possible. I love and have loved many people in my life: parents, siblings, friends, girlfriends, and my wife, to name a few. The love I feel for my daughter, however, is unlike any I've felt before. When I held her for the first time, I had a feeling like I'd never quite felt in my life. It was like what I felt when I was married, in terms of magnitude and type, but it felt more real, more tangible than any love I've felt before. Whereas the love I feel for my parents, siblings, and wife is something I feel deep in my heart, the love I feel for my daughter is almost tangible. It's as if I can feel, smell, taste, touch, and hear it.
 

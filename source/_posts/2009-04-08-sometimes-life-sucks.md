@@ -11,10 +11,10 @@ jd_tweet_this: yes
 wp_jd_clig: http://cli.gs/SpgB9g
 
 ---
-<div style="float:right">
-  <img src="http://farm3.static.flickr.com/2200/2292017754_7c027f2aa7_m.jpg" /></p> 
-  <p><a href="http://www.flickr.com/photos/djkubik/2292017754/">shibuya karaoke street</a> by <a href="http://www.flickr.com/photos/djkubik/">WasabiNoise</a></p>
-</div>
+<figure class="right image-wrap">
+  <img src="http://farm3.static.flickr.com/2200/2292017754_7c027f2aa7_m.jpg" />
+  <figcaption><a href="http://www.flickr.com/photos/djkubik/2292017754/">shibuya karaoke street</a> by <a href="http://www.flickr.com/photos/djkubik/">WasabiNoise</a></figcaption>
+</figure>
 
 As you, my loyal readers (do I have loyal readers, other than my mom and sisters?) are aware, I have been anxiously awaiting word from the [JET Program](http://www.jetprogramme.org/) to find out if I will be spending the next year or so in Japan. I finally got word back from them last night. They selected me as an alternate. What that means is that if someone they accepted changes their mind about going, or if someone drops out after they're there, I might get selected to take their place. So, anytime between now and December, I might get another email from them saying they want me after all. It also means that I still have to fill out the same paperwork as if I were going, without any guarantee that I will get accepted.
 

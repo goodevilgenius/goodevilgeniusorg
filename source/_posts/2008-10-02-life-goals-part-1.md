@@ -1,6 +1,6 @@
 ---
 id: 63
-title: Life goals (Part 1)
+title: Life goals
 date: 2008-10-02T12:37:19+00:00
 author: Danjones
 layout: post
@@ -10,7 +10,7 @@ pvc_views: 118
 jd_tweet_this: yes
 
 ---
-So, a couple of weeks ago, in an [Institute](http://ldsces.org/) class, my teacher challenged our class to come up with 100 life goals. I decided this was a great idea, and have started on my list. I want to share with you the ones that aren't too personal. I haven't come up with 100 yet, but I'm still working on it, and will post again when I have more.
+So, a couple of weeks ago, in an [Institute](https://www.lds.org/church-education) class, my teacher challenged our class to come up with 100 life goals. I decided this was a great idea, and have started on my list. I want to share with you the ones that aren't too personal. I haven't come up with 100 yet, but I'm still working on it, and will post again when I have more.
 
 If you notice missing numbers, it's because that one was too personal to publicly share.
 
@@ -36,9 +36,9 @@ So, here's my list so far.
 
 6. Write a feature-length screenplay and have it produced.
 
-7. Marry in the [temple](http://mormon.org/mormonorg/eng/basic-beliefs/membership-in-christ-s-church/temples-and-family-history)
+7. Marry in the [temple](https://www.mormon.org/beliefs/temples)
 
-8. Serve [a mission](http://mormon.org/mormonorg/eng/basic-beliefs/membership-in-christ-s-church/missionary-work) with my wife.
+8. Serve [a mission](https://www.mormonnewsroom.org/topic/missionary-program) with my wife.
 
 9. See all my children marry in the temple.
 
@@ -48,7 +48,7 @@ So, here's my list so far.
 
 12. Live the last years of my life in America. (i.e. Die in my homeland.)
 
-3. Visit [Seven Wonders of the World](http://en.wikipedia.org/wiki/Seven_Wonders_of_the_Ancient_World).
+3. Visit [Seven Wonders of the World](https://en.wikipedia.org/wiki/Seven_Wonders_of_the_Ancient_World).
 
 14. Visit every habitable continent.
 
@@ -58,13 +58,13 @@ So, here's my list so far.
 
 16. Learn something new every day of my life.
 
-17. Never go 24 hours without [reading the scriptures](http://mormon.org/mormonorg/eng/basic-beliefs/the-commandments/study-the-scriptures).
+17. Never go 24 hours without [reading the scriptures](https://www.mormon.org/beliefs/the-bible).
 
 18. Memorize one scripture every month.
 
 19. Get a pilot's license.
 
-20. Get on [imdb](http://www.imdb.com).
+20. Get on [imdb](https://www.imdb.com).
 
 21. Play clarinet in church.
 

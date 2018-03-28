@@ -14,4 +14,4 @@ I recently had a part in a short film written and directed by my good friend, Ar
 
 I play Bowser's goon, Koopa. I hope you all enjoy it. Please rate it on YouTube, and tell all your friends.
 
-https://youtu.be/pBG5ocYs2wg
+{% youtube pBG5ocYs2wg %}

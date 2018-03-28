@@ -12,7 +12,7 @@ jd_tweet_this: yes
 ---
 Last night, I had a strange dream that I felt like sharing. Why do I discuss my dreams on this blog so much, you might ask? I guess my real life is just boring enough that I need to supplement it with my fantasy life. Oh well. On to the dream.
 
-In this dream, I was a deadly assassin. I [can't imagine](http://delilah-production.blogspot.com/2008/04/kicking-butt.html) what made me dream that. The beginning of the dream is a little blurry now. I remember going into an office to get my assignment. The office was small, a little bigger than your average cubicle. The walls were all glass. There was no one in the office, but my assignment was sitting on the desk.
+In this dream, I was a deadly assassin. I [can't imagine](https://delilah-production.blogspot.com/2008/04/kicking-butt.html) what made me dream that. The beginning of the dream is a little blurry now. I remember going into an office to get my assignment. The office was small, a little bigger than your average cubicle. The walls were all glass. There was no one in the office, but my assignment was sitting on the desk.
 
 I set out to take out my mark. It all happened pretty quickly. I remember being at some sort of man-made body of water. It was like an artificial pond, in a very urban area. I remember that's where the hit took place. I was very stealthy: like a ninja. Basically, I walked up to the guy, quickly pulled a blade out of my coat, drew it across his neck, and walked away as he fell into the pool, his blood draining into the crystal clear water.
 

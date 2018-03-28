@@ -24,9 +24,9 @@ Although it's not common in Standard English, it's often found in Colloquial Eng
 
 The most common infix in colloquial English I will call the f-word infix (Wikipedia calls it expletive infixation, but I like my term better: take that, linguists). I call it this because the f-word (mostly in its present participial form), and it's substitutes (freakin', fraggin', fudging, etc.) are the most common words used for this type of infix. In Britain, bloody is usually used. The purpose of this infix is to add emphasis to the word. So, we end up with words like absofrigginlutely, and fanbloodytastic. Well, my most common usage of this form is unbe-freaking-lievable. Technically, these aren't exactly infixes, but rather Tmesis. It's close enough to being the same thing, though, that I'm going to call them the same thing. Infix is a lot easier word to remember than Tmesis (those crazy Greeks).
 
-Now, what does this have to do with the Smurfs? Well, today I read [an article](http://www.jeffrubinjeffrubin.com/post/32473645) about the Smurfs. The content of the article has nothing to do with this post. But the author used the word "Un-smurfing-believable."
+Now, what does this have to do with the Smurfs? Well, today I read an article about the Smurfs. The content of the article has nothing to do with this post. But the author used the word "Un-smurfing-believable."
 
-Well, as soon as I read it, I thought, "That sounds weird. Why didn't he write 'Unbe-smurfing-lievable?' That's where the stress naturally falls." Well, I looked up the article on wikipedia about [the f-word infix](http://en.wikipedia.org/wiki/Expletive_infixation), and it said:
+Well, as soon as I read it, I thought, "That sounds weird. Why didn't he write 'Unbe-smurfing-lievable?' That's where the stress naturally falls." Well, I looked up the article on wikipedia about [the f-word infix](https://en.wikipedia.org/wiki/Expletive_infixation), and it said:
 
 > A simple rule is that the insertion occurs at a syllable boundary, usually just before the primary stressed syllable. Thus, one hears abso-fuckin'-lutely rather than \*ab-fuckin'-solutely. This rule is insufficient to describe examples such as un-fuckin'-believable (not \*unbe-fuckin'-lievable), however, so modifications to this rule are proposed such as morpheme boundaries taking precedence over stress.
 

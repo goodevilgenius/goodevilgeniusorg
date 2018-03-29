@@ -10,7 +10,7 @@ jd_tweet_this: yes
 pvc_views: 67
 
 ---
-Thursday afternoon, I was in a class at the [Institute](http://www.ldsces.org/Austin). The class was "The Gospel and the Productive Life," taught by Bishop Simmons. The lesson was mainly about [The Word of Wisdom](http://scriptures.lds.org/dc/89), but one of the quotes that was read mentioned the benefits of wholeseome recreation as well. Bishop Simmons told us that the root of the word recreation is re-create, and that if recreation doesn't help us re-create ourself, it's not really recreation. I liked that a lot. Generally when someone explains something to me using etymology, it helps me understand a lot better. This was a concept that had never really occurred to me.
+Thursday afternoon, I was in a class at the [Institute](https://studentview.lds.org/home.aspx/60505). The class was "The Gospel and the Productive Life," taught by Bishop Simmons. The lesson was mainly about [The Word of Wisdom](https://scriptures.lds.org/dc/89), but one of the quotes that was read mentioned the benefits of wholeseome recreation as well. Bishop Simmons told us that the root of the word recreation is re-create, and that if recreation doesn't help us re-create ourself, it's not really recreation. I liked that a lot. Generally when someone explains something to me using etymology, it helps me understand a lot better. This was a concept that had never really occurred to me.
 
 Fast forward to last night. The Institute hosted a "formal" dance: sort of like a mini-prom. I don't really like dressing up, but I wanted to go to the dance. They were also providing dinner, and who's gonna pass up free food? Not me, that's for sure.
 

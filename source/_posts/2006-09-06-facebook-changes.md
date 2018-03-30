@@ -23,4 +23,4 @@ There's another News Feed. I haven't figured out it's purpose yet, but it's on y
 
 Notes were recently added. They're basically a blog. In fact, you can simply import a news feed from another blog into your Facebook notes.
 
-Finally, the other main complaint I've been hearing is about the new Profile page layout. It's changed. Oh freakin' well. It's changed in the past, and it'll change again in the future. If it bugs you that much, just learn Javascript, and write a user script to change things around: [Greasemonkey](http://greasemonkey.mozdev.org) scripts for Firefox, or [Turnabout](http://www.reifysoft.com/turnabout.php) scripts for IE.
+Finally, the other main complaint I've been hearing is about the new Profile page layout. It's changed. Oh freakin' well. It's changed in the past, and it'll change again in the future. If it bugs you that much, just learn Javascript, and write a user script to change things around: [Greasemonkey](http://greasemonkey.mozdev.org) scripts for Firefox.

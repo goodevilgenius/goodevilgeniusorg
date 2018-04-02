@@ -19,7 +19,7 @@ jobs:
       - run:
           name: Install dependencies
           command: |
-            npm install -g hexo-cli yarn
+            sudo npm install -g hexo-cli yarn
             yarn install
       - run:
           name: Creating build directory

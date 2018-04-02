@@ -18,7 +18,9 @@ jobs:
             git config --global user.name "Circle CI"
       - run:
           name: Install dependencies
-          command: npm install
+          command: |
+            npm install -g hexo-cli yarn
+            yarn install
       - run:
           name: Creating build directory
           command: git clone -b gh-pages `git remote get-url origin` public

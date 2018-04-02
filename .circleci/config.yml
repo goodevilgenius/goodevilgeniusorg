@@ -23,7 +23,7 @@ jobs:
             yarn install
       - run:
           name: Creating build directory
-          command: git clone -b gh-pages `git remote get-url origin` public
+          command: git clone -b gh-pages `git config remote.origin.url` public
       - run:
           name: Build site
           command: hexo generate
@@ -33,4 +33,4 @@ jobs:
             cd public
             git add -A
             git commit -m "$(date --iso-8601=seconds) Deploy new site"
-            git push
+            git push origin gh-pages

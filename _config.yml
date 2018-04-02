@@ -15,8 +15,10 @@ timezone: America/Chicago
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://goodevilgenius.org/
-root: /
+#url: http://goodevilgenius.org/
+#root: /
+url: https://projects.danielrayjones.com/goodevilgeniusorg
+root: /goodevilgeniusorg/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -116,4 +118,6 @@ theme_config:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:goodevilgenius/goodevilgeniusorg.git
+  branch: gh-pages

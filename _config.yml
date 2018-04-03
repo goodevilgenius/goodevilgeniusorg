@@ -17,8 +17,8 @@ timezone: America/Chicago
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 #url: http://goodevilgenius.org/
 #root: /
-url: https://projects.danielrayjones.com/goodevilgeniusorg
-root: /goodevilgeniusorg/
+url: https://goodevilgenius.org
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -117,6 +117,7 @@ theme_config:
 
 include:
   - .nojekyll
+  - CNAME
   #- .circleci/ # We don't include this because hexo turns the yaml into json
 
 # Deployment

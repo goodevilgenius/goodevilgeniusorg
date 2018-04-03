@@ -30,6 +30,11 @@ jobs:
           name: Build site
           command: hexo generate
       - run:
+          name: Copy other files
+          command: |
+            rm -rf public/.circleci
+            cp -r .circleci public/
+      - run:
           name: Deploy site
           command: |
             cd public

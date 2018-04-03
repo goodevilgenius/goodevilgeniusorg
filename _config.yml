@@ -115,10 +115,11 @@ theme_config:
     Archives: /archives/
     Resume: https://DanielRayJones.com/
 
+include:
+  - .nojekyll
+  #- .circleci/ # We don't include this because hexo turns the yaml into json
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
-
-include:
-  - .circleci

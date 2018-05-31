@@ -82,6 +82,9 @@ theme: cactus
 theme_config:
   colorscheme: classic
   projects_url: https://github.com/goodevilgenius
+  disqus:
+    enabled: true
+    shortname: goodevilgenius
   social_links:
     github: https://github.com/goodevilgenius
     stack-overflow: https://stackoverflow.com/users/story/367461

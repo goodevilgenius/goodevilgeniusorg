@@ -21,8 +21,8 @@ jobs:
           command: |
             sudo npm install -g hexo-cli yarn
             # Why isn't this executable? I don't know.
-            sudo chmod +x `which yarn`
-            yarn install
+            sudo chmod +x /usr/local/bin/yarn
+            /usr/local/bin/yarn install
       - run:
           name: Creating build directory
           command: git clone -b gh-pages `git config remote.origin.url` public

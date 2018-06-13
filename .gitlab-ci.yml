@@ -1,4 +1,4 @@
-image: node:4.2.2
+image: node:10.4.1-alpine
 
 pages:
   cache:
@@ -7,7 +7,7 @@ pages:
 
   script:
   - npm install hexo-cli -g
-  - npm install
+  - yarn install
   - "sed -i 's|^url:.*$|url: https://goodevilgeniusorg.gitlab.io|' _config.yml"
   - hexo deploy
   artifacts:

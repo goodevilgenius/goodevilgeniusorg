@@ -8,7 +8,8 @@ pages:
   script:
   - npm install hexo-cli -g
   - yarn install
-  - "sed -i 's|^url:.*$|url: https://goodevilgeniusorg.gitlab.io|' _config.yml"
+  - "sed -i 's|^url:.*$|url: https://danjones000.gitlab.io|' _config.yml"
+  - "sed -i 's|^root:.*$|root: /goodevilgeniusorg|' _config.yml"
   - hexo deploy
   artifacts:
     paths:

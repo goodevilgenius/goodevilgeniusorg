@@ -98,6 +98,10 @@ theme_config:
     post_count: 20
   gravatar:
     email: danjones@goodevilgenius.org
+  adsense:
+    enabled: true
+    autoads: true
+    client_id: ca-pub-4137218792590025
   logo:
     enabled: true
     gravatar: true

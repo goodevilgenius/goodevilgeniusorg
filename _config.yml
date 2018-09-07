@@ -84,7 +84,7 @@ theme_config:
     enabled: true
     shortname: goodevilgenius
   social_links:
-    gitlab: https://github.com/danjones000
+    gitlab: https://gitlab.com/danjones000
     github: https://github.com/goodevilgenius
     stack-overflow: https://stackoverflow.com/users/story/367461
     twitter: https://twitter.com/goodevilgenius

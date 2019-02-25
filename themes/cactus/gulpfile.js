@@ -16,9 +16,9 @@ gulp.task('lib:clean',function(){
 
 gulp.task('lib:fontAwesome',function(){
   return gulp.src([
-    'node_modules/fontawesome5-webfont/webfonts/*',
-    'node_modules/fontawesome5-webfont/css/fontawesome-all.min.css'
-  ], {base: 'node_modules/fontawesome5-webfont'})
+    'node_modules/@fortawesome/fontawesome-free/webfonts/*',
+    'node_modules/@fortawesome/fontawesome-free/css/all.min.css'
+  ], {base: 'node_modules/@fortawesome/fontawesome-free'})
     .pipe(gulp.dest('./source/lib/font-awesome'))
 })
 

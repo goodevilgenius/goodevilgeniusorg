@@ -6,9 +6,8 @@ pages:
     - node_modules/
 
   script:
-  - npm install hexo-cli -g
   - yarn install
-  - hexo deploy
+  - npx hexo deploy
   artifacts:
     paths:
     - public

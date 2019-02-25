@@ -12,8 +12,8 @@ clean:
 	rm -rf public
 
 stage: clean
-	hexo generate
+	npx hexo generate
 
 serve: stage
 	echo https://goodevilgeniusorg-goodevilgenius.c9users.io/
-	hexo server -i "$(IP)" -p "$(PORT)" 
+	npx hexo server -i "$(IP)" -p "$(PORT)"

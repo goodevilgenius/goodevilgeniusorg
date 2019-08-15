@@ -973,13 +973,13 @@ hexo-renderer-ejs@^0.3.0:
     ejs "^2.3.4"
     object-assign "^4.0.1"
 
-hexo-renderer-marked@^0.3.0:
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/hexo-renderer-marked/-/hexo-renderer-marked-0.3.2.tgz#d6a37af9ff195e30f9ef6ede1a06ea1fe4322966"
+hexo-renderer-marked@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/hexo-renderer-marked/-/hexo-renderer-marked-1.0.1.tgz#7752e55afa789eb05e0d47c72e286a12c2c8e080"
+  integrity sha512-oAOthvEYWJx4hvzD8WE7hOSYoTooOe5Vtb7mW6LtM3rEpQhXaWXPq7fOrEhCfdjgDr3DusSi7x19XgLIx+hcmQ==
   dependencies:
     hexo-util "^0.6.2"
-    marked "^0.3.9"
-    object-assign "^4.1.1"
+    marked "^0.6.1"
     strip-indent "^2.0.0"
 
 hexo-renderer-stylus@^0.3.1:
@@ -1421,9 +1421,10 @@ markdown@~0.5.0:
   dependencies:
     nopt "~2.1.1"
 
-marked@^0.3.9:
-  version "0.3.17"
-  resolved "https://registry.yarnpkg.com/marked/-/marked-0.3.17.tgz#607f06668b3c6b1246b28f13da76116ac1aa2d2b"
+marked@^0.6.1:
+  version "0.6.3"
+  resolved "https://registry.yarnpkg.com/marked/-/marked-0.6.3.tgz#79babad78af638ba4d522a9e715cdfdd2429e946"
+  integrity sha512-Fqa7eq+UaxfMriqzYLayfqAE40WN03jf+zHjT18/uXNuzjq3TY0XTbrAoPeqSJrAmPz11VuUA+kBPYOhHt9oOQ==
 
 micromatch@^3.1.10, micromatch@^3.1.4:
   version "3.1.10"

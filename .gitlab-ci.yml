@@ -1,4 +1,4 @@
-image: node:10.4.1-alpine
+image: node:12.8-alpine
 
 pages:
   cache:

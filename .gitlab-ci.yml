@@ -6,7 +6,7 @@ pages:
     - node_modules/
 
   script:
-  - yarn install
+  - npm ci
   - npx hexo deploy
   artifacts:
     paths:

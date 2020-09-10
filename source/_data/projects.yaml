@@ -7,10 +7,6 @@
     url: https://gitlab.com/danjones000/dropbox-shell
     desc: Run commands on your home computer via Dropbox
 - 
-    name: controllr
-    url: https://gitlab.com/danjones000/controllr
-    desc: (Work in Progress) Control multiple devices using a server/client architecture
-- 
-    name: Cards with Frenemies
-    url: https://gitlab.com/danjones000/cards-with-frenemies
-    desc: (Work in Progress) Online multiplayer clone of a similarly named card game
+    name: notmuchmore
+    url: https://gitlab.com/notmuchmore
+    desc: (Work in Progress) Set of projects which will eventually provide secure remote access to notmuch

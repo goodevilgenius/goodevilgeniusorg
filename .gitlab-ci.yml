@@ -1,7 +1,7 @@
 image: node:12.8-alpine
 
 before_script:
-  make deps
+  - make deps
 
 pages:
   cache:

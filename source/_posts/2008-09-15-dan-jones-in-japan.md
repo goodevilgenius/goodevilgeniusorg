@@ -5,9 +5,9 @@ date: 2008-09-15T11:31:10+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=55
-permalink: dan-jones-in-japan
-pvc_views: 73
-
+slug: dan-jones-in-japan
+tags:
+    - me
 ---
 {% raw %}
 <figure class="right image-wrap" style="max-width: 12rem;">

@@ -5,10 +5,10 @@ date: 2008-09-03T19:29:53+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=53
-permalink: joe-stryker
-jd_tweet_this: yes
-pvc_views: 119
-
+slug: joe-stryker
+tags:
+    - stryker
+    - acting
 ---
 So, we've been working on Joe Stryker for a year now. And by "working on for a year," I mean that a year ago we filmed two episodes, bought the domain joestryker.com, and put up a "Coming soon&hellip;" page on said site. A couple weeks ago, we filmed two more episodes, and finally finished polishing the first episode to get it up on the interwebs. So, for your viewing enjoyment, I've attached it below.
 

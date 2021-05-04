@@ -5,10 +5,9 @@ date: 2007-10-29T15:36:26+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/13-guid.html
-permalink: my-week-as-a-spammer
-jd_tweet_this: yes
-pvc_views: 30
-
+slug: my-week-as-a-spammer
+tags:
+    - experience
 ---
 So, last week, I was trying to think of new ways to spread the word about our [entry into the Insomnia Film Festival](/2007/10/17/apple-insomnia-film-contest-2007/). As I was thinking of ways to spread the word, the [student directory](https://directory.utexas.edu/) at my school came to my mind. It lists all the students, faculty, and staff at the university who haven't specifically restricted their listing. All in all, that comes to about 70,000 people. I thought that if I could search that directory, and send an email off to everyone in it asking them to vote for our entry, surely at least 1% of them would vote. That would send our rating through the roof! Yeah, I knew this was spam, but it was for a good cause so it seemed like a good idea to me.
 

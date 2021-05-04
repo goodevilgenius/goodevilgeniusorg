@@ -5,10 +5,9 @@ date: 2007-08-30T14:40:14+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/5-guid.html
-permalink: real-friends-kill-friends-who-become-zombies
-pvc_views: 42
-jd_tweet_this: yes
-
+slug: real-friends-kill-friends-who-become-zombies
+tags:
+    - musings
 ---
 {% raw %}
 <figure class="right image-wrap">

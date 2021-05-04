@@ -5,9 +5,7 @@ date: 2007-12-20T18:23:15+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/16-guid.html
-permalink: a-scottish-delicacy
-pvc_views: 58
-
+slug: a-scottish-delicacy
 ---
 <style type="text/css">.max-width-img {max-width: 8rem;}</style>
 

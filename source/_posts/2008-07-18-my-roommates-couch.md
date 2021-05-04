@@ -5,9 +5,9 @@ date: 2008-07-18T22:04:49+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=44
-permalink: my-roommates-couch
-pvc_views: 100
-
+slug: my-roommates-couch
+tags:
+    - experience
 ---
 Right now I had planned to be at a dance at church. I was looking forward to it, because it's been a while since I've been to a dance, but I had an experience that kept me from it.
 

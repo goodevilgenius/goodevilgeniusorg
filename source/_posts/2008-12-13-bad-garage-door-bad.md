@@ -5,10 +5,10 @@ date: 2008-12-13T23:06:48+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=76
-permalink: bad-garage-door-bad
-pvc_views: 37
-jd_tweet_this: yes
-
+slug: bad-garage-door-bad
+tags:
+    - experience
+    - motorcycle
 ---
 So, I came in from filming today, and as usual, as I'm approaching the driveway, I hit the button on the garage door opener in my pocket to open the garage for me to drive right into the garage. However, unlike usual, I was going ever so slightly faster than I usually do to pull into the garage. This is probably due to the lack of cars in the driveway for me to skirt between, and the lack of trailer in the garage for me to squeeze up against.
 

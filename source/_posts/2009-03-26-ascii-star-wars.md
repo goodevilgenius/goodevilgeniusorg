@@ -5,11 +5,9 @@ date: 2009-03-26T19:29:56+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/?p=135
-permalink: ascii-star-wars
-pvc_views: 209
-jd_tweet_this: yes
-wp_jd_clig: http://cli.gs/XzBt57
-
+slug: ascii-star-wars
+tags:
+    - forwards
 ---
 I just found a text version of Star Wars that you can watch online. It's AMAZING! You have to telnet [towel.blinkenlights.nl](telnet://towel.blinkenlights.nl), and you can be watching a text version of Star Wars on your computer.
 

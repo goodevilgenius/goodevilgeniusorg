@@ -5,10 +5,9 @@ date: 2008-04-23T22:31:32+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/22-guid.html
-permalink: smurfs-and-linguistics
-pvc_views: 198
-jd_tweet_this: yes
-
+slug: smurfs-and-linguistics
+tags:
+    - linguistics
 ---
 This post is not actually about Smurfs. I will not discuss the language of the Smurfs. (They obviously speak English and _Die Schlümpfe_ speak German.) This post **is** actually about linguistics. Most of you can feel free to stop reading now. I won't be offended. Unless you're my mother, this will probably not interest you.
 

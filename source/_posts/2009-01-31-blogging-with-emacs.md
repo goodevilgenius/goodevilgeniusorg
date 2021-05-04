@@ -5,11 +5,10 @@ date: 2009-01-31T08:26:49+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=101
-permalink: blogging-with-emacs
-wp_jd_clig: http://cli.gs/yetHaj
-pvc_views: 953
-jd_tweet_this: yes
-
+slug: blogging-with-emacs
+tags:
+    - software
+    - programming
 ---
 My favorite text editor is [Emacs](https://www.gnu.org/software/emacs/). It's a great text editor which is very extensible. Plugins can be written for it to allow it to do a number of different things. There's even a web browser which works entirely from within emacs.
 

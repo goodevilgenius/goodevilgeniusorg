@@ -47,6 +47,15 @@
   <% } %>
 </section>
 
+<% if (site.tags.length){ %>
+    <section id="tagclouds">
+        <span class="h1"><%= __('Tags') %></span>
+        <div class="widget tagcloud">
+            <%- tagcloud() %>
+        </div>
+    </section>
+<% } %>
+
 <% if (site.data.projects) { %>
 <section id="projects">
   <span class="h1"><a href="<%- url_for(theme.projects_url) %>"><%= __('index.projects') %></a></span>

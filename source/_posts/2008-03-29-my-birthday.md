@@ -5,9 +5,9 @@ date: 2008-03-29T09:01:43+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/19-guid.html
-permalink: my-birthday
-pvc_views: 34
-
+slug: my-birthday
+tags:
+    - experience
 ---
 Yesterday was my birthday, and boy, was it a great one. Around 6am, there was some noise right outside my room. It was just enough to not actually wake me up, but enough that I was able to hear what's happening, and the sounds in the real world would meld with the sounds in my dream. So, as I'm on a boat floating down the Danube, I hear a whispering, disembodied voice say, "Alright, you ready? Now!" Then my door crashed open loudly enough to actually wake me up, as four or five of my friends start singing "Happy Birthday" to me. As my eyes flutter open, I see my good friends standing there, and as the song concludes, one of them says, "We're here to take you to IHOP for breakfast." I slowly roll out of the hammock in which I sleep as the words, "Ohhhhh, Mannnn" escape from my mouth. I walk over towards them, and in retrospect, I wonder if they were wondering if I was about to deck them. I didn't, of course, because I love them, but instead put on my sandals, looked up and gave a groggy, affirmative nod. "Alright, let's go" came from one of the crowd. And so, in my pajamas, we headed off to IHOP.
 

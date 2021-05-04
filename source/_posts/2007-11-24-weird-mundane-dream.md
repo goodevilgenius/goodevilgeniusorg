@@ -5,10 +5,9 @@ date: 2007-11-24T12:27:00+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/15-guid.html
-permalink: weird-mundane-dream
-jd_tweet_this: yes
-pvc_views: 40
-
+slug: weird-mundane-dream
+tags:
+    - dream
 ---
 I had a weird dream last night. It wasn't weird in the sense that weird things happened, things that were out of the ordinary, unusual, or impossible. In fact, it was weird in the fact that it **didn't** have any of that stuff. You see, usually I remember dreams when something strange/frightening/unusual/fantastic happens in them. This dream had none of that. It was just a little slice-of-life soft of dream. I wasn't aware that I could have those types of dreams, because, as far as I can remember, they've never happened before.
 

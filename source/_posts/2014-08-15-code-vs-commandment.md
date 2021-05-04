@@ -5,9 +5,8 @@ date: 2014-08-15T01:51:03+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.blogs.goodevilgenius.org/?p=356
-permalink: code-vs-commandment
+slug: code-vs-commandment
 format: link
-
 ---
 http://www.millennialmormons.com/code-vs-commandment-obedience-byu-idaho/
 

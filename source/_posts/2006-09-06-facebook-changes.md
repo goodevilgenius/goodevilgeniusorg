@@ -5,13 +5,12 @@ date: 2006-09-06T09:58:00+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/wordpress/2006/09/06/facebook-changes/
-permalink: facebook-changes
-pvc_views: 75
+slug: facebook-changes
 blogger_blog: goodevilgenius.blogspot.com
 blogger_author: Dan Jones
 blogger_permalink: /2006/09/facebook-changes.html
-jd_tweet_this: yes
-
+tags:
+    - facebook
 ---
 Ok, so pretty much every college student in this country is familiar with the Facebook. Recently some changes have been made. Actually, some major changes. I've heard a lot of complaints. Let me go over some of the changes.
 

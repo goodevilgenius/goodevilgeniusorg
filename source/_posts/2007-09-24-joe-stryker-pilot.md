@@ -5,10 +5,10 @@ date: 2007-09-24T09:22:46+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/8-guid.html
-permalink: joe-stryker-pilot
-jd_tweet_this: yes
-pvc_views: 28
-
+slug: joe-stryker-pilot
+tags:
+    - stryker
+    - acting
 ---
 I should probably keep a lid on this until it's ready, but I can't. I'm too excited.
 

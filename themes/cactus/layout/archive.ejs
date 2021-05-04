@@ -17,3 +17,12 @@
   </ul>
   <%- partial('_partial/pagination') %>
 </div>
+
+<% if (site.tags.length){ %>
+    <section id="tagclouds">
+        <span class="h1"><%= __('Tags') %></span>
+        <div class="widget tagcloud">
+            <%- tagcloud() %>
+        </div>
+    </section>
+<% } %>

@@ -5,10 +5,9 @@ date: 2008-08-08T20:43:02+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=48
-permalink: color-quiz
-pvc_views: 38
-jd_tweet_this: yes
-
+slug: color-quiz
+tags:
+    - forwards
 ---
 So, I recently read on [Stephanie Hall's blog](https://redisbetter.blogspot.com/2008/08/color-me-good.html) about an interesting [color quiz](http://www.colorquiz.com/). It's a personality quiz that tells you about yourself based on colors you pick. While I don't think my results are particularly accurate, I thought they were interesting. I particularly found it interesting that I am "able to achieve satisfaction through sexual activity." Everything seems to be telling me lately that I need to get married. Anyway, here's my results for your enjoyment.
 

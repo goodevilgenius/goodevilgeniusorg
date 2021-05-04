@@ -5,10 +5,10 @@ date: 2007-09-16T13:02:12+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/7-guid.html
-permalink: motorcycle-experiences
-jd_tweet_this: yes
-pvc_views: 93
-
+slug: motorcycle-experiences
+tags:
+    - motorcycle
+    - experience
 ---
 On Friday, I was giving a ride home to my friend, Tina. I never let anyone ride my bike (including myself), without a helmet, so she was wearing my extra one, which, after I dropped her off, I strapped to the back of my bike. I pulled out of her apartment complex on Riverside Dr, and as I was crossing the next intersection (Wickersham Ln), a car heading the opposite direction turned left right in front of me, causing me to have to slam on my brakes. I don't know if it's because my brakes are not great, or because my front wheel is not properly aligned with my handlebars (I think both), but braking suddenly caused the bike to slide off to one side. So me and Jenny (that's my bike's name) slid side by side down the road right into the intersection. As I was sliding down the road, the thought came into my head, "I sure am glad this happened after I dropped off Tina, and not while she was still on the bike." When we both came to a rest, and I regained my composure, I got up and walked over to Jenny, a couple feet away from me, and another guy ran into the intersection to help me. I hit her engine cut-off switch, and we pulled her off to the side of the road.
 

@@ -5,13 +5,12 @@ date: 2006-12-19T22:19:00+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/wordpress/2006/12/19/project-implicit-and-first-set-of-results/
-permalink: project-implicit-and-first-set-of-results
-pvc_views: 26
+slug: project-implicit-and-first-set-of-results
 blogger_blog: goodevilgenius.blogspot.com
 blogger_author: Dan Jones
 blogger_permalink: /2006/12/project-implicit-and-first-set-of.html
-jd_tweet_this: yes
-
+tags:
+    - me
 ---
 I recently signed up for a study being done by Harvard Research. It's called [Project Implicit](https://implicit.harvard.edu/implicit/), and the point is to determine what certain people implicit feel. Here's what the site says: 
 

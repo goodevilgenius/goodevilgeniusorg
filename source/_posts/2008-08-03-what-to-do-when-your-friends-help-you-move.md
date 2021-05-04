@@ -5,10 +5,9 @@ date: 2008-08-03T04:23:26+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=45
-permalink: what-to-do-when-your-friends-help-you-move
-pvc_views: 58
-jd_tweet_this: yes
-
+slug: what-to-do-when-your-friends-help-you-move
+tags:
+    - advice
 ---
 So, I recently helped a friend move, and I've had a lot of experience over the past several years both helping people move, and being helped move, so I thought I'd write a couple tips about best practices for the person being moved.
 

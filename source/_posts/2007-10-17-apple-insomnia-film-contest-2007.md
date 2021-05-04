@@ -5,10 +5,9 @@ date: 2007-10-17T17:03:11+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/11-guid.html
-permalink: apple-insomnia-film-contest-2007
-pvc_views: 34
-jd_tweet_this: yes
-
+slug: apple-insomnia-film-contest-2007
+tags:
+    - acting
 ---
 Last Saturday, oogaFilms created a three minute film for the 2007 Apple Insomnia Film Contest. This is a contest wherein college and high school students create a three minute film in 24 hours. oogaFilms' entry is titled "Crosswalk", and on the 19th October will be available for viewing and voting on Apple's website. I encourage all to go and vote this Friday.
 

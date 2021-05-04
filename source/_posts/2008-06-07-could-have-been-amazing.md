@@ -5,10 +5,10 @@ date: 2008-06-07T08:21:30+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=42
-permalink: could-have-been-amazing
-pvc_views: 64
-jd_tweet_this: yes
-
+slug: could-have-been-amazing
+tags:
+    - experience
+    - motorcycle
 ---
 So, I'm in Carthage, TX right now to visit my family. The ride to Carthage is quite a long one (6-7 hours), so I saw a lot of different things on the way here.
 

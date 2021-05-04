@@ -5,10 +5,10 @@ date: 2008-11-04T12:19:22+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=72
-permalink: jerkstore-on-the-road
-jd_tweet_this: yes
-pvc_views: 58
-
+slug: jerkstore-on-the-road
+tags:
+    - experience
+    - motorcycle
 ---
 So, you know what annoys me? People that nearly kill me. You know what annoys me more? When those people get mad at me when they nearly kill me.
 

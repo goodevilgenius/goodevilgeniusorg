@@ -5,13 +5,9 @@ date: 2010-03-29T19:01:58+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/?p=173
-permalink: life-happens
-jd_twitter: 'My thoughts on my life as of late: #url#'
-pvc_views: 132
-jd_tweet_this: yes
-wp_jd_clig: http://cli.gs/H6ugv
-wp_jd_target: http://cli.gs/H6ugv
-
+slug: life-happens
+tags:
+    - musings
 ---
 I've been doing a lot of introspection, and reflection lately. I've thought a lot about how the events in my life have flown, one into the other, and I've recently noticed connections, that I previously had failed to notice. I'd like to share some of my thoughts, and a bit of my life.
 
@@ -21,7 +17,7 @@ Around the summer of 2008, I was not noticeably closer to achieving this goal, b
 
 The answer I got was clear. While He was happy with the goal I had set, and the efforts I had made to achieve it, I should set that aside for the time being, and apply to this program. I felt as if God Himself was going to bring me to Japan. My application was strong, and I had heavenly powers on my side; I was sure I would be leaving this country for the Land of the Rising Sun, but as I'm sure you know, I [did not get accepted into the program](http://goodevilgenius.org/2009/04/08/sometimes-life-sucks/).
 
-I won't discuss that further, except to say that I felt cheated, and it took some very sincere (albeit perhaps angrier than necessary) prayer for me to accept what happened. As it happened, the week I would have left for Japan, a new person came into my life. I had met this woman many months prior when she came over from California to visit my roommate. During the period that I was trying to go to Japan, she had decided to move to Texas. Had I gone to Japan, our paths would barely have crossed again, and she would just have become another person among my Facebook friends, whose activity I ignore. But because I was staying, we had the opportunity to become friends. Friendship led to [romance](http://goodevilgenius.org/2009/08/14/love-of-my-life/), and romance led to marriage.
+I won't discuss that further, except to say that I felt cheated, and it took some very sincere (albeit perhaps angrier than necessary) prayer for me to accept what happened. As it happened, the week I would have left for Japan, a new person came into my life. I had met this woman many months prior when she came over from California to visit my roommate. During the period that I was trying to go to Japan, she had decided to move to Texas. Had I gone to Japan, our paths would barely have crossed again, and she would just have become another person among my Facebook friends, whose activity I ignore. But because I was staying, we had the opportunity to become friends. Friendship led to romance, and romance led to marriage.
 
 I said in a previous post that I have felt the Hand of God in my life quite a bit recently. But as I have thought over these events, I realize even more so how true it is. Had I not chosen to apply to the JET program, I likely would have married someone else. I'm certain that whomever I would have married would have been a good wife to me. But God had someone in particular in store for me, and so he had me put off my goal, and he did it in such a way that I learned many valuable lessons. As with all the other life decisions that I have mentioned, I have prayed often and sincerely about my decision to marry my wife. I know not only does God approve of my decision, but it's the exact decision He wanted me to make. I am truly blessed to have a wife whom I love with all my heart and soul, and with whom God wants me to spend eternity.
 

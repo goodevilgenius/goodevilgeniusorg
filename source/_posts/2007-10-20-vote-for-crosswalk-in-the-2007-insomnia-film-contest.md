@@ -5,10 +5,7 @@ date: 2007-10-20T18:12:25+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/12-guid.html
-permalink: vote-for-crosswalk-in-the-2007-insomnia-film-contest
-pvc_views: 28
-jd_tweet_this: yes
-
+slug: vote-for-crosswalk-in-the-2007-insomnia-film-contest
 ---
 As I mentioned [a couple days ago](/2007/10/17/apple-insomnia-film-contest-2007/), I helped create a three minute film for Apple's Insomnia Film Contest.
 

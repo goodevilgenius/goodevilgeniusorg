@@ -5,9 +5,9 @@ date: 2008-10-10T17:26:02+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=70
-permalink: self-mastery
-pvc_views: 52
-
+slug: self-mastery
+tags:
+    - me
 ---
 So, I sort of feel like I'm going through Lent, but I'm not Catholic, so I don't get a Mardi Gras.
 

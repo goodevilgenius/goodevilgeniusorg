@@ -5,10 +5,7 @@ date: 2008-04-03T10:47:57+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/20-guid.html
-permalink: my-adventures-with-gimp
-jd_tweet_this: yes
-pvc_views: 26
-
+slug: my-adventures-with-gimp
 ---
 I use Linux. I don't like Windows, and I don't care for macOS. I love Linux, and its software. I especially love the fact that most Linux software is [Free Software](https://www.fsf.org/about/). I'm not a Nazi about Free Software. I'll use proprietary software if there's simply no usable free alternative. Google Earth, Skype, and NVIDIA drivers are a few that come to mind. However, some people feel that free software must be inferior to commercial software because it doesn't cost anything. Some people are just so comfortable with their proprietary software that they won't consider using a free equivalent.
 

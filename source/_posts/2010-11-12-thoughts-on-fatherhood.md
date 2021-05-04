@@ -5,9 +5,8 @@ date: 2010-11-12T21:53:32+00:00
 author: Danjones
 layout: post
 guid: http://danielrayjones.com/?p=251
-permalink: thoughts-on-fatherhood
-pvc_views: 164
-
+tags:
+    - musings
 ---
 This post is well overdue, but between moving across the country and starting a new job, I just hadn't gotten around to it until now. Three months ago, I became a father. My wife gave birth to a beautiful baby girl. I've certainly changed a great deal because of her. I'd like to share a few thoughts and experiences I've had over the past few months.
 

@@ -5,10 +5,10 @@ date: 2009-01-06T13:26:02+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=89
-permalink: christmas-flu
-pvc_views: 132
-jd_tweet_this: yes
-
+slug: christmas-flu
+tags:
+    - experience
+    - sickness
 ---
 So, today is my first day back at work after the holidays. My whole department got two weeks off for Christmas and New Year's and I spent most of it lying in my bed thinking I was going to die.
 

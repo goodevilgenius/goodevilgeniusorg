@@ -5,10 +5,9 @@ date: 2008-07-07T00:44:49+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/?p=43
-permalink: soundtrack-of-my-life
-pvc_views: 240
-jd_tweet_this: yes
-
+slug: soundtrack-of-my-life
+tags:
+    - forwards
 ---
 <style type="text/css">.answer{border-top:2px dashed black;margin:.5rem auto;min-width:2rem;max-width:20rem;padding:0 .5rem;}.answer a{margin:auto;}</style>
 

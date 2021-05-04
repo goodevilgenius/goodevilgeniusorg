@@ -5,9 +5,9 @@ date: 2007-08-13T12:22:36+00:00
 author: Danjones
 layout: post
 guid: http://goodevilgenius.org/blog/index.php?/archives/2-guid.html
-permalink: lindsey-in-the-sunflowers
-pvc_views: 40
-
+slug: lindsey-in-the-sunflowers
+tags:
+    - photography
 ---
 {% raw %}
 <figure class="right image-wrap">

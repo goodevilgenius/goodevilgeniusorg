@@ -1,13 +1,15 @@
 image: node:12.8-alpine
 
+before_script:
+  make deps
+
 pages:
   cache:
     paths:
     - node_modules/
 
   script:
-  - npm ci
-  - npx hexo deploy
+  - make build
   artifacts:
     paths:
     - public

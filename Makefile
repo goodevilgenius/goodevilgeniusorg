@@ -1,4 +1,4 @@
-.PHONY: clean stage serve all
+.PHONY: clean deps build serve all
 
 export PATH := $(HOME)/bin:$(PATH):/usr/local/bin
 
@@ -13,9 +13,20 @@ all: serve
 clean:
 	rm -rf public
 
-stage: clean
+package-lock.json: package.json
+	npm install
+
+node_modules/hexo/bin/hexo: package-lock.json
+	npm ci
+	# Fix stupid, intentional timestamp bug https://github.com/npm/npm/pull/20027
+	find node_modules -type f -exec touch {} +
+
+deps: node_modules/hexo/bin/hexo
+
+public/index.html: node_modules/hexo/bin/hexo
 	npx hexo generate
 
-serve: stage
-	echo https://goodevilgeniusorg-goodevilgenius.c9users.io/
+build: public/index.html
+
+serve: build
 	npx hexo server -i "$(IP)" -p "$(PORT)"

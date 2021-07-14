@@ -1,7 +1,8 @@
 ---
 title: Healthcare and Employment
 date: 2021-07-14 13:27:56
-modified: 2021-07-14 13:30:56
+modified: 2021-07-14 13:32:07
+external_url: https://fedi.absturztau.be/notice/A9HuCsN6XVTVKqIWCe
 tags:
     - musings
     - healthcare

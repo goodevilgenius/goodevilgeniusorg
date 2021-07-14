@@ -1,6 +1,7 @@
 ---
 title: Reboot or sequel?
 date: 2021-04-15 15:15:52
+modified: 2021-07-14 18:09:24
 tags:
     - language
     - semantics
@@ -32,7 +33,7 @@ A <dfn id="def-spin-off">spin-off</dfn> is a series that is based on another, bu
 usually features a different main cast. A spin-off usually exists in the same
 fictional universe.
 
-Here are a few examples. "Mork and Mindy" and "Laverne and Shirley" are bot
+Here are a few examples. "Mork and Mindy" and "Laverne and Shirley" are both
 spin-offs of "Happy Days". Law & Order series are spin-offs of the original "Law
 & Order".
 

@@ -90,8 +90,7 @@ theme_config:
   colorscheme: classic
   projects_url: https://gitlab.com/danjones000
   disqus:
-    enabled: true
-    shortname: goodevilgenius
+    enabled: false
   social_links:
     gitlab: https://gitlab.com/danjones000
     github: https://github.com/goodevilgenius

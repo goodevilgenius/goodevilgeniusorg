@@ -87,7 +87,8 @@ pagination_dir: page
 theme: cactus
 
 theme_config:
-  colorscheme: classic
+  colorscheme: dark
+  highlight: solarized-dark
   projects_url: https://gitlab.com/danjones000
   disqus:
     enabled: false

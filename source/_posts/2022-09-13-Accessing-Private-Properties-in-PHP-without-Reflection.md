@@ -1,7 +1,7 @@
 ---
 title: Accessing Private Properties in PHP without Reflection
 date: 2022-09-13 08:52:15
-modified: 2022-09-13T09:33:24-0500
+modified: 2022-09-13T09:41:50-0500
 published: true
 description: Closures give us a great way to access private properties without using Reflection
 tags:
@@ -150,5 +150,7 @@ Since `$haveMyBirthday` is a closure, we have to actually call it.
 ## Conclusion
 
 Sure, we can use [`ReflectionClass`](https://www.php.net/manual/en/class.reflectionclass.php) and [`ReflectionObject`](https://www.php.net/manual/en/class.reflectionobject.php) to do all of this, but this technique greatly simplifies it, since calling a single private method is a single line of code.
+
+I actually use this in a [package I recently wrote](https://packagist.org/packages/danjones000/object-spy) that should make this even easier.
 
 And to reiterate, I do not recommend doing this in production code. There's a reason visibility exists. We shouldn't circumvent it like this in code on our server. But, if we need to fiddle around with some objects for testing, this technique can simplify that for us.

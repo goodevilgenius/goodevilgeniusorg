@@ -9,4 +9,4 @@ tags:
     - me
     - introduction
 ---
-My name is Dan Jones. I'm a web developer for [BubbleUp](https://www.bubbleup.net/). I live in the Houston area. I'm also a father and an actor.
+My name is Dan Jones. I'm a [Software Engineer](https://danielrayjones.com/web/) specializing in web development using PHP and golang stacks. I live in the Houston area. I'm also a father and an actor.

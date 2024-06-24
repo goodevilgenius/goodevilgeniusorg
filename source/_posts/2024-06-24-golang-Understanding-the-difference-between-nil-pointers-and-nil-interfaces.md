@@ -1,0 +1,175 @@
+---
+title: 'golang: Understanding the difference between nil pointers and nil interfaces'
+date: 2024-06-24 10:44:59
+modified: 2024-06-24T11:36:50-0500
+published: true
+description: An explanation of the difference between nil interfaces and nil pointers in go
+tags:
+    - programming
+    - webdev
+    - go
+    - golang
+# cover_image: 
+---
+I was thinking a bit about the different ways in which nil works in go, and how sometimes, something can be both nil and not nil at the same time.
+
+[Here](https://go.dev/play/p/wgMSKWFjtvv) is a little example of something that can be a nil pointer, but not a nil interface. Let's walk through what that means.
+
+## Interfaces
+
+First, go has a concept of interfaces, which are similar, but not quite the same as interfaces in some object-oriented languages (go is not OOP by most definitions). In go, an interface is a type that defines functions that another type must implement to satisfy the interface. This allows us to have multiple concrete types that can satisfy an interface in different ways.
+
+For example, `error` is a built-in interface that has a single method. It looks like this:
+
+```go
+type error interface {
+    Error() string
+}
+```
+
+Any type that wants to be used as an error must have a method called `Error` which returns a string. For example, the following code could be used:
+
+```go
+type ErrorMessage string
+
+func (em ErrorMessage) Error() string {
+    return string(em)
+}
+
+func DoSomething() error {
+    // Try to do something, and it fails.
+    if somethingFailed {
+        var err ErrorMessage = "This failed"
+        return err
+    }
+    return nil
+}
+
+func main() {
+    err := DoSomething()
+    if err != nil {
+        panic(err)
+    }
+}
+```
+
+Notice in this example that `DoSomething` returns an `error` if something goes wrong. We can use our `ErrorMessage` type, because it has the `Error` function, which returns a string, and therefore implements the `error` interface.
+If no error occurred, we returned nil.
+
+## Pointers
+
+In go, pointers point to a value, but they can also point to no value, in which case the pointer is nil. For example:
+
+```go
+var i *int = nil
+
+func main() {
+    if i == nil {
+        j := 5
+        i = &j
+    }
+    fmt.Println("i is", *i)
+}
+```
+
+In this case, the `i` variable is a pointer to an int. It starts out as a nil pointer, until we create an int, and point it to that.
+
+## Pointers and interfaces
+
+Since user-defined types can have functions (methods) attached, we can also have functions for pointers to types. This is a very common practice in go. This also means that pointers can also implement interfaces. In this way, we could have a value that is a non-nil interface, but still a nil pointer. Consider the following code:
+
+```go
+type TruthGetter interface {
+    IsTrue() bool
+}
+
+func PrintIfTrue(tg TruthGetter) {
+    if tg == nil {
+        fmt.Println("I can't tell if it's true")
+        return
+    }
+    if tg.IsTrue() {
+        fmt.Println("It's true")
+    } else {
+        fmt.Println("It's not true")
+    }
+}
+```
+
+Any type that has an `IsTrue() bool` method can be passed to `PrintIfTrue`, but so can `nil`. So, we can do `PrintIfTrue(nil)` and it will print "I can't tell if it's true".
+
+We can also do something simple like this:
+
+```go
+type Truthy bool
+
+func (ty Truthy) IsTrue() bool {
+    return bool(ty)
+}
+
+func main() {
+    var ty Truthy = true
+    PrintIfTrue(ty)
+}
+```
+
+This will print "It's true".
+
+Or, we can do something more complicated, like:
+
+```go
+type TruthyNumber int
+
+func (tn TruthyNumber) IsTrue() bool {
+    return tn > 0
+}
+
+func main() {
+    var tn TruthyNumber = -4
+    PrintIfTrue(tn)
+}
+```
+
+That will print "It's not true". Neither of these examples are pointers, and so there's no chance for a nil with either of these types, but consider this:
+
+```go
+type TruthyPerson struct {
+    FirstName string
+    LastName string
+}
+
+func (tp *TruthyPerson) IsTrue() bool {
+    return tp.FirstName != "" && tp.LastName != ""
+}
+```
+
+In this case `TruthyPerson` does not implement `TruthGetter`, but `*TruthyPerson` does. So, this should work:
+
+```go
+func main() {
+    tp := &TruthyPerson{"Jon", "Grady"}
+    PrintIfTrue(tp)
+}
+```
+
+This works because `tp` is a pointer to a `TruthyPerson`. However, if the pointer is nil, we'll get a panic.
+
+```go
+func main() {
+    var tp *TruthyPerson
+    PrintIfTrue(tp)
+}
+```
+
+This will panic. However, the panic doesn't happen in `PrintIfTrue`. You would think it's fine, because `PrintIfTrue` checks for nil. But, here's the issue. It's checking nil against a `TruthGetter`. In other words, it's checking for a nil interface, but not a nil pointer. And in `func (tp *TruthyPerson) IsTrue() bool`, we don't check for a nil. In go, we can still call methods on a nil pointer, so the panic happens there. The fix is actually pretty easy.
+
+```go
+func (tp *TruthyPerson) IsTrue() bool {
+    if tp == nil {
+        return false
+    }
+    return tp.FirstName != "" && tp.LastName != ""
+}
+```
+
+Now, we're checking for a nil interface in `PrintIfTrue` and for a nil pointer in `func (tp *TruthyPerson) IsTrue() bool`. And it will now print "It's not true". We can see all this code [working here](https://go.dev/play/p/IihhiSXMm-q).

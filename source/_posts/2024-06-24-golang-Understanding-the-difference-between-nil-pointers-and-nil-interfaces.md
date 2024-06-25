@@ -1,7 +1,7 @@
 ---
 title: 'golang: Understanding the difference between nil pointers and nil interfaces'
 date: 2024-06-24 10:44:59
-modified: 2024-06-24T11:36:50-0500
+modified: 2024-06-25T11:18:15-0500
 published: true
 description: An explanation of the difference between nil interfaces and nil pointers in go
 tags:
@@ -9,7 +9,7 @@ tags:
     - webdev
     - go
     - golang
-# cover_image: 
+cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v5y3c9rhfkcy68ylgywd.jpg
 ---
 I was thinking a bit about the different ways in which nil works in go, and how sometimes, something can be both nil and not nil at the same time.
 
@@ -173,3 +173,40 @@ func (tp *TruthyPerson) IsTrue() bool {
 ```
 
 Now, we're checking for a nil interface in `PrintIfTrue` and for a nil pointer in `func (tp *TruthyPerson) IsTrue() bool`. And it will now print "It's not true". We can see all this code [working here](https://go.dev/play/p/IihhiSXMm-q).
+
+## Bonus: Check for both nils at once with reflection
+
+With reflection, we can make a small change to `PrintIfTrue` so that it can check for both nil interfaces and nil pointers. Here's the code:
+
+```go
+func PrintIfTrue(tg TruthGetter) {
+	if tg == nil {
+		fmt.Println("I can't tell if it's true")
+		return
+	}
+
+	val := reflect.ValueOf(tg)
+	k := val.Kind()
+	if (k == reflect.Pointer || k == reflect.Chan || k == reflect.Func || k == reflect.Map || k == reflect.Slice) && val.IsNil() {
+		fmt.Println("I can't tell if it's true")
+		return
+	}
+
+	if tg.IsTrue() {
+		fmt.Println("It's true")
+	} else {
+		fmt.Println("It's not true")
+	}
+}
+```
+
+Here, we check for the nil interface first, as before. Next, we use reflection to get the type. `chan`, `func`, `map`, and `slice` can also be nil, in addition to pointers, so we check if the value is one of those types, and if so, check if it's nil. And if it is, we also return the "I can't tell if it's true" message. This may or may not be exactly what you want, but it's an option. With this change, we can do this:
+
+```go
+func main() {
+    var tp *TruthyPerson
+    PrintIfTrue(tp)
+}
+```
+
+And this will print "I can't tell if it's true", instead of "It's not true". Depending on your perspective, this may be a better improvement. [Here](https://go.dev/play/p/mL048k4C1be) is the complete code with this change.

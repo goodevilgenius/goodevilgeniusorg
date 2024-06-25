@@ -1,7 +1,7 @@
 ---
 title: 'golang: Understanding the difference between nil pointers and nil interfaces'
 date: 2024-06-24 10:44:59
-modified: 2024-06-25T11:18:15-0500
+modified: 2024-06-25T11:30:02-0500
 published: true
 description: An explanation of the difference between nil interfaces and nil pointers in go
 tags:
@@ -209,4 +209,19 @@ func main() {
 }
 ```
 
-And this will print "I can't tell if it's true", instead of "It's not true". Depending on your perspective, this may be a better improvement. [Here](https://go.dev/play/p/mL048k4C1be) is the complete code with this change.
+You might sometimes see a suggestion to something simpler, like:
+
+```go
+// Don't do this
+if tg == nil && reflect.ValueOf(tg).IsNil() {
+    fmt.Println("I can't tell if it's true")
+    return
+}
+```
+
+There are two reasons this doesn't work well. First, is that there is a performance overhead when using reflection. If you can avoid using reflection, you probably should. If we check for the nil interface first, we don't have to use reflection if it's a nil interface.
+
+The second reason is the `reflect.Value.IsNil()` will panic if the type of the value isn't a type that can be nil. That's why we add in the check for the kind. If we hadn't checked the Kind, then we would've gotten a panic on the `Truthy` and `TruthyNumber` types.
+
+
+So, as long as we ensure we check the kind first, this will now print "I can't tell if it's true", instead of "It's not true". Depending on your perspective, this may be an improvement. [Here](https://go.dev/play/p/mL048k4C1be) is the complete code with this change.
